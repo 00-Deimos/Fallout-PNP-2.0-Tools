@@ -145,6 +145,15 @@
             "source": "Fallout PNP 2.0"
         },
         {
+            "name": "Brown Noser",
+            "description" : "You’ve learned how to suck up to your superiors. You get +1 Charisma for reaction roles when dealing with authority figures for each rank of this perk.",
+            "effect": "+1 CHA when dealing with authority figures",
+            "ranks": "2",
+            "requirement": "Charisma 5, Intelligence 6, Level 2",
+            "image": "./images/perks/Perk_Image_Brown_Noser.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
             "name": "Cancerous Growth",
             "description" : "The radiation has mutated you so badly that you thrive in the wastes. You gain a +2 bonus to your healing rate, and can regenerate a crippled limb in 48 hours.",
             "effect": "+2HR and regenerate crippled limbs in 48 hours",
@@ -169,6 +178,42 @@
             "ranks": "1",
             "requirement": "Intelligence 6, Level 3",
             "image": "./images/perks/Perk_Image_Comprehension.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Crazy Bomber",
+            "description" : "Your luck with explosives is legendary. Characters with this perk who fail to set an explosive properly will know immediately, and that explosive will not go off or detonate – it will be reset, so the Bomber can try again.",
+            "effect": "Always knows when explosives fail to set and can reset them",
+            "ranks": "1",
+            "requirement": "Traps 60%, Intelligence 6, Level 9",
+            "image": "./images/perks/Perk_Image_Crazy_Bomber.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Cult of Personality",
+            "description" : "Everybody likes your character. EVERYBODY. Instead of getting anegative modifier for the wrong kind of karma, you get a positive modifier. Bad people like good characters, and good people like bad characters. Good still likes good and bad still likes bad. Go figure.",
+            "effect": "Reputation always affects people favorably",
+            "ranks": "1",
+            "requirement": "Charisma 10, Level 12",
+            "image": "./images/perks/Perk_Image_Cult_of_Personality.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Demolition Expert",
+            "description" : "Your character has learned how to handle explosives like a pro. For characters that like to blow things up, there is nothing better than this perk. Explosives set by this character do 50% more damage and will always detonate on time.",
+            "effect": "+50% explosive damage and explosives always detonate on time",
+            "ranks": "1",
+            "requirement": "Agility 4, Traps 90%, Level 9",
+            "image": "./images/perks/Perk_Image_Demolition_Expert.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Die Hard",
+            "description" : "You won’t go down without a fight! When your hit points drop below 20% of your maximum, you get an additional 10% Damage Resistance to all types of damage",
+            "effect": "+When HP is below 20%, +10% DR to all damage types",
+            "ranks": "1",
+            "requirement": "First Aid 40%, Endurance 6, Level 2",
+            "image": "./images/perks/Perk_Image_Die_Hard.png",
             "source": "Fallout PNP 2.0"
         }
     ]
