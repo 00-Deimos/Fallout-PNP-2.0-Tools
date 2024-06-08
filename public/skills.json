@@ -1,0 +1,123 @@
+{
+    "Skills" : [
+        {
+            "name": "Small Guns",
+            "description" : "This skill covers the use of bows, pistols, sub-machine guns, rifles, and shotguns. The higher your Small Guns skill, the easier it will be for you to hit your target, and the longer the effective range you will have in combat.",
+            "formula": "5% + (4 X AG)",
+            "image": "./images/skills/Skill_Image_Small_Guns.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Big Guns",
+            "description" : "This is the skill of flamethrowers, miniguns, rocket launchers, heavy machine guns, and other large support weapons. If it's a large weapon, you can count on Big Guns being the skill rolled against. Like Small Guns, the better your skill, the easier it will be to hit your target, and the longer the range of your shot.",
+            "formula": "0% + (2 X AG)",
+            "image": "./images/skills/Skill_Image_Big_Guns.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Energy Weapons",
+            "description" : "The use of energy weapons is not a very common skill in the post-nuclear world. Energy weapons were just coming into actual warfare when the world blew up. Lasers and plasma weapons are covered by the Energy Weapons skill. Basically, if it uses an energy cell or power pack, and not cartridge ammunition, it falls under this skill. ",
+            "formula": "0% + (2 X AG)",
+            "image": "./images/skills/Skill_Image_Energy_Weapons.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Unarmed",
+            "description" : "This is the skill of beating people up with your fists and feet. The better you are at this skill, the more likely you are going to hit them in combat. This skill also covers the use of weapons that enhance unarmed combat such as brass knuckles, spiked knuckles, and the legendary Power Fist. At higher skill levels, you will learn new techniques of fighting. Everyone starts with a good Unarmed skill, since the basic concept is pretty simple.",
+            "formula": "30% + (2 X (AG + STR))",
+            "image": "./images/skills/Skill_Image_Piercing_Strike.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "First Aid",
+            "description" : "The skill of minor healing. You will be able to heal minor wounds, cuts, and bruises with this skill. You can only use it three times a day, and it takes a little while to work. You can use it on yourself, or anyone you are feeling particularly nice to at the time. Each use of this skill takes 1d10 minutes and heals 1d10 Hit Points. You can only use this skill 3 times a day.",
+            "formula": "0% + (2 X (PE + EN))",
+            "image": "./images/skills/Skill_Image_Medicine.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Doctor",
+            "description" : "A more advanced form of healing. You can heal serious damage and crippled limbs but not poison or radiation damage. Using this skill takes a while to perform. Every crippled limb will add to the time required to use the Doctor skill. You can play Doctor with yourself (except if you are Blind), or any other person / critter you choose to be kind to. In addition, a character can heal 2d10 hit points in 1 hour by successfully using the Doctor skill. You can only use the Doctor skill twice a day.",
+            "formula": "5% + (PE + IN)",
+            "image": "./images/skills/Skill_Image_Doctor.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Sneak",
+            "description" : "he skill of being able to move quietly or out of sight. When you are sneaking, other people will be less likely to notice you - at a distance. If you get too close to a dangerous creature, now matter how good you are at sneaking, they will notice you. Of course, whether someone notices you is based on what direction they are facing, the amount of light in the area, the amount of cover you have, and a hell of a lot of luck. Such is the life of a thief. Successfully sneaking up on a person means you get a bonus should you want to try to steal from them. Your sneak skill is rolled when you start sneaking, and once a minute while still sneaking,",
+            "formula": "5% + (3 X AG)",
+            "image": "./images/skills/Skill_Image_Sneak.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Lockpick",
+            "description" : "f you need to open locks without the proper key, this is the skill for you. Use it to get what you want, but other people don't want you to have. Having an actual lockpick will improve your chances, but it is not necessary. There are two types of locks in the Fallout world: normal and electronic. Lockpicks work against normal locks, but to even attempt an electronic lock, you need an electronic lockpick. Certain locks can be harder to pick than others, and certain locks require that the picker has a lockpick.",
+            "formula": "10% + (PE + AG)",
+            "image": "./images/skills/Skill_Image_Lockpick.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Steal",
+            "description" : "This is the art of removing things from a person or an object without being noticed. Even if you succeed, there is a chance that the critter might notice you. Larger objects are more difficult to steal than smaller objects. The more objects you try to steal, the more likely you are to get noticed. You cannot steal objects a person is using (guns they are holding in their hands, armor they are wearing on their body, etc). If you try to steal from a person, it might be a good idea to stand behind them so they can't see you as well.",
+            "formula": "0% + (3 X AG)",
+            "image": "./images/skills/Skill_Image_Pickpocket.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Traps",
+            "description" : "Not only does the Traps skill involve setting and disarming devices that cause harm to others, but it also covers setting, timing, and handling explosives. The higher your Traps skill, the less likely it is a bomb will blow up in your face, a huge rock will crush your party, and the more likely it is that the timer you just set will go off when you want it to.",
+            "formula": "10% + (PE + AG)",
+            "image": "./images/skills/Skill_Image_Traps.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Science",
+            "description" : "Science is the skill of working with electronic devices such as computers. It also covers how intuitive a character is. Characters with a high Science skill will notice things that others might miss, and characters who actively apply their Science skill to tasks can intuit answers to problems. Science skills are used when rolling to use (or break into) computers, determine what part a vehicle might need to run properly again, or to notice a vein of silver in an otherwise unremarkable rock. Science skill can also be used like First Aid to repair robots.",
+            "formula": "0% + (4 X IN)",
+            "image": "./images/skills/Skill_Image_Science.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Repair",
+            "description" : "Repair is the practical application of the Science skill. As things are constantly breaking in the wastes, and there aren't customer service hotlines anymore, a person with a high Repair skill is always good to have around. Repair covers fixing all manner of mechanical things, from guns to vehicles, and can also be used to intentionally sabotage or disable mechanical things. The Repair skill can also be used like Doctor to repair robots.",
+            "formula": "0% + (3 X IN)",
+            "image": "./images/skills/Skill_Image_Repair.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Pilot",
+            "description" : "The skill of operating various kinds of motor vehicles, from cars to tanks to jeeps to verti-birds, airplanes, and helicopters. Characters with high pilot skills can take vehicles places that other characters couldn't, and just might avoid rolling that Highwayman when they hit that pothole.",
+            "formula": "0% + 2X (AG + PE)",
+            "image": "./images/skills/Skill_Image_Pilot.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Speech",
+            "description" : "This is the skill of dialogue. The better your Speech skill, the more likely you will be able to get your way when talking to people. When there is a chance that an NPC might take your word, believe your lie, or just follow your instructions, this is the skill that is used.",
+            "formula": "0% + (5 X CH)",
+            "image": "./images/skills/Skill_Image_Speech.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Barter",
+            "description" : "The skill of trading. In the post-nuclear world, currency is not commonly used. Barter will allow you to get more for less when trading equipment, weapons, and other items. A high Barter skill will lower the prices you pay for items you purchase, and increase the money you get for selling excess equipment. A good Barter skill isn't important if you're killing everyone, but it certainly is a valuable skill for the non-berserkers out there.",
+            "formula": "0% + (4 X CH)",
+            "image": "./images/skills/Skill_Image_Barter.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Gambling",
+            "description" : "The Gambling skill covers a knowledge of and adeptness at games of chance. Someone with a high Gambling skill tends to win these games more often, or might notice if the game is dirty or rigged.",
+            "formula": "0% + (5 X LK)",
+            "image": "./images/skills/Skill_Image_Gambling.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Outdoorsman",
+            "description" : "This is the skill of outdoor living and survival in hostile environments. Basically, what they teach in Boy Scouts and Girl Scouts, modified for the post-nuclear world. Outdoorsman has many uses, from finding food and water in the middle of a vast wasteland to avoiding hostile creatures to knowledge about what plants and animals will help you or kill you. It's always good to have someone in the party who's an avid outdoorsman.",
+            "formula": "0% + (2 X (EN + IN))",
+            "image": "./images/skills/Skill_Image_Survival.png",
+            "source": "Fallout PNP 2.0"
+        }
+    ]
+}
