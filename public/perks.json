@@ -1,0 +1,175 @@
+{
+    "perks" : [
+        {
+            "name": "Action Boy/Girl",
+            "description" : "Your character knows how to make the most out of every moment. For each rank of this perk, the character gets an additional Action Point each combat turn.",
+            "effect": "+1 AP each turn",
+            "ranks": "2",
+            "requirement": "Agility 5, Level 12",
+            "perkImage": "./images/perks/Perk_Image_Action_Girl.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Adrenaline Rush",
+            "description" : "You have a fear of death that allows you to fight harder when you are wounded. When your character's HP drop below 50% of their maximum, your character gains a +1 Strength bonus, but cannot go above the racial maximum.",
+            "effect": "+1 STR when HP is below 50%",
+            "ranks": "1",
+            "requirement": "Strength 1-9, Level 6",
+            "perkImage": "./images/perks/Perk_Image_Adrenaline_Rush.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Animal Friend",
+            "description" : "Your character spends a lot of time with animals. A LOT of time. Animals will not attack one of their friends, unless the animal is threatened or attacked first.",
+            "effect": "Wild animals will not attack you",
+            "ranks": "1",
+            "requirement": "5 Intelligence, 25% Outdoorsman, Level 9",
+            "perkImage": "./images/perks/Perk_Image_Animal_Friend.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Awareness",
+            "description" : "You know exactly what is going on in combat. This perk gives you more information when you examine a critter. You can see their exact number of hit points and the weapon they are armed with, if any.",
+            "effect": "More information when examining a critter",
+            "ranks": "1",
+            "requirement": "Perception 5, Level 3",
+            "perkImage": "./images/perks/Perk_Image_Awareness.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bend the Rules",
+            "description" : "With this perk, the next time your character gets to choose a perk, they can ignore all restrictions except for race. You rule!",
+            "effect": "Next perk ignores all restrictions (except for race)",
+            "ranks": "1",
+            "requirement": "Luck 6, Level 16",
+            "perkImage": "./images/perks/Perk_Image_Bend_the_Rules.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Better Criticals",
+            "description" : "Your shots somehow hurt more than usual. The critical hits you cause in combat are more devastating. When you do a critical hit that does not kill outright, your hit does 150% normal damage (in addition to any damage bonuses already gained). In addition, your chance to cause damage to a limb is increased by 50%. If you critically hit for 40 points of damage, for instance, you would instead deal a whopping 60 points. OUCH!.",
+            "effect": "More devastating critical hits",
+            "ranks": "1",
+            "requirement": "Mutants cannot choose this perk. Perception 6, Luck 6,Agility 4, Level 9.",
+            "perkImage": "./images/perks/Perk_Image_Better_Criticals.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bluff Master",
+            "description" : "You are the king or queen of smooth talking. Whenever you are caught stealing, your character can automatically talk his or her way out of the situation.",
+            "effect": "Talk your way out of being caught stealing",
+            "ranks": "1",
+            "requirement": "Charisma 3, Level 8",
+            "perkImage": "./images/perks/Perk_Image_Bluff_Master.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bone Head",
+            "description" : "You have a very thick skull, just like your mother always told you. With the first rank of this perk, you get a 50% chance to avoid being knocked unconscious. With the second rank, that chance increases to 75%.",
+            "effect": "50% chance to avoid being knocked unconscious, 75% at rank 2",
+            "ranks": "2",
+            "requirement": "Strength 7, Level 7",
+            "perkImage": "./images/perks/Perk_Image_Bone_Head.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bonsai",
+            "description" : "Through careful nurturing, you have a small fruit tree growing out of your head. Now you have a steady supply of fruit!",
+            "effect": "Fruits start growing in your head",
+            "ranks": "1",
+            "requirement": "Only Ghouls can choose this perk. Outdoorsman 50%, Science 40%, Level 12",
+            "perkImage": "./images/perks/Perk_Image_Bonsai.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bonus HtH Attacks",
+            "description" : "Your character has watched Jackie Chan and Bruce Lee and managed to learn a thing or two. Your character can make more hand-to-hand or melee style attacks per combat turn with this perk. The AP cost to use a HtH or Melee attack is reduced by 1.",
+            "effect": "Melee and Unarmed attacks cost -1 AP",
+            "ranks": "1",
+            "requirement": "Agility 6, Level 15",
+            "perkImage": "./images/perks/Perk_Image_Animal_Bonus_HtH_Attacks.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bonus HtH Damage",
+            "description" : "You have learned a special technique to deal more damage with your fists and melee weapons. Your character gains a +2 bonus to Melee Damage for each level of this perk.",
+            "effect": "+2 MD for each rank",
+            "ranks": "3",
+            "requirement": "Agility 6, Strength 6, Level 3",
+            "perkImage": "./images/perks/Perk_Image_Bonus_HtH_Damage.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bonus Move",
+            "description" : "You have learned to take longer strides in combat. For each level of this perk, your character can move 2 more hexes in combat. The first two hexes a character moves do no cost any APs.",
+            "effect": "+2 AP for movement only",
+            "ranks": "2",
+            "requirement": "Agility 5, Level 6",
+            "perkImage": "./images/perks/Perk_Image_Bonus_Move.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bonus Ranged Damage",
+            "description" : "You know just where to hit to make it hurt more. Every bullet that successfully hits the target does +2 damage for each rank of this perk.",
+            "effect": "+2 RNG damage for each rank",
+            "ranks": "2",
+            "requirement": "Agility 6, Luck 6, Level 6",
+            "perkImage": "./images/perks/Perk_Image_Bonus_Ranged_Damage.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bonus Rate of Fire",
+            "description" : "Your trigger finger is a little faster than normal. Each ranged weapon attack costs one less AP to perform.",
+            "effect": "-1AP for RNG attacks",
+            "ranks": "1",
+            "requirement": "Requirements: Strength 7, Big Guns 80%, Level 4.",
+            "perkImage": "./images/perks/Perk_Image_Bonus_Rate_of_Fire.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Bracing",
+            "description" : "You know how to brace large weapons while you are standing. When applicable, you get a bonus for using a tripod just by holding a weapon in your hands.",
+            "effect": "Same bonus as tripod while holding weapons while standing",
+            "ranks": "2",
+            "requirement": "Agility 7, Intelligence 6, Perception 6, Level 15",
+            "perkImage": "./images/perks/Perk_Image_Bracing.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Break the Rules",
+            "description" : "When you choose this perk, you may choose any perk next time, regardless of requirements or race.",
+            "effect": "Next time chose any perk (race doesnt matter)",
+            "ranks": "1",
+            "requirement": "Luck 6, Level 20",
+            "perkImage": "./images/perks/Perk_Image_Break_the_Rules.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Cancerous Growth",
+            "description" : "The radiation has mutated you so badly that you thrive in the wastes. You gain a +2 bonus to your healing rate, and can regenerate a crippled limb in 48 hours.",
+            "effect": "+2HR and regenerate crippled limbs in 48 hours",
+            "ranks": "1",
+            "requirement": "Only Ghouls can choose this perk. Strength < 7, Level 6",
+            "perkImage": "./images/perks/Perk_Image_Cancerous_Growth.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Cautious Nature",
+            "description" : "Your character has learned to be wary of the world around him. His Perception is increased by +3 when determining where he begins in random encounters.",
+            "effect": "+3 PE to when determining random encounters",
+            "ranks": "1",
+            "requirement": "Perception 6, Level 3",
+            "perkImage": "./images/perks/Perk_Image_Cautious_Nature.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Comprehension",
+            "description" : "Looks like all those study skills courses paid off. With this perk, your character gains 50% to the number of skill points earned when reading educational books. Books that normally give you 10 skill points now give you 15.",
+            "effect": "Extra bonus from reading books",
+            "ranks": "1",
+            "requirement": "Intelligence 6, Level 3",
+            "perkImage": "./images/perks/Perk_Image_Comprehension.png",
+            "source": "Fallout PNP 2.0"
+        }
+    ]
+}
