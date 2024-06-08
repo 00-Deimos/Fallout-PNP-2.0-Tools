@@ -6,7 +6,7 @@
             "effect": "+1 AP each turn",
             "ranks": "2",
             "requirement": "Agility 5, Level 12",
-            "perkImage": "./images/perks/Perk_Image_Action_Girl.png",
+            "image": "./images/perks/Perk_Image_Action_Girl.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -15,7 +15,7 @@
             "effect": "+1 STR when HP is below 50%",
             "ranks": "1",
             "requirement": "Strength 1-9, Level 6",
-            "perkImage": "./images/perks/Perk_Image_Adrenaline_Rush.png",
+            "image": "./images/perks/Perk_Image_Adrenaline_Rush.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -24,7 +24,7 @@
             "effect": "Wild animals will not attack you",
             "ranks": "1",
             "requirement": "5 Intelligence, 25% Outdoorsman, Level 9",
-            "perkImage": "./images/perks/Perk_Image_Animal_Friend.png",
+            "image": "./images/perks/Perk_Image_Animal_Friend.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -33,7 +33,7 @@
             "effect": "More information when examining a critter",
             "ranks": "1",
             "requirement": "Perception 5, Level 3",
-            "perkImage": "./images/perks/Perk_Image_Awareness.png",
+            "image": "./images/perks/Perk_Image_Awareness.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -42,7 +42,7 @@
             "effect": "Next perk ignores all restrictions (except for race)",
             "ranks": "1",
             "requirement": "Luck 6, Level 16",
-            "perkImage": "./images/perks/Perk_Image_Bend_the_Rules.png",
+            "image": "./images/perks/Perk_Image_Bend_the_Rules.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -51,7 +51,7 @@
             "effect": "More devastating critical hits",
             "ranks": "1",
             "requirement": "Mutants cannot choose this perk. Perception 6, Luck 6,Agility 4, Level 9.",
-            "perkImage": "./images/perks/Perk_Image_Better_Criticals.png",
+            "image": "./images/perks/Perk_Image_Better_Criticals.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -60,7 +60,7 @@
             "effect": "Talk your way out of being caught stealing",
             "ranks": "1",
             "requirement": "Charisma 3, Level 8",
-            "perkImage": "./images/perks/Perk_Image_Bluff_Master.png",
+            "image": "./images/perks/Perk_Image_Bluff_Master.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -69,7 +69,7 @@
             "effect": "50% chance to avoid being knocked unconscious, 75% at rank 2",
             "ranks": "2",
             "requirement": "Strength 7, Level 7",
-            "perkImage": "./images/perks/Perk_Image_Bone_Head.png",
+            "image": "./images/perks/Perk_Image_Bone_Head.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -78,7 +78,7 @@
             "effect": "Fruits start growing in your head",
             "ranks": "1",
             "requirement": "Only Ghouls can choose this perk. Outdoorsman 50%, Science 40%, Level 12",
-            "perkImage": "./images/perks/Perk_Image_Bonsai.png",
+            "image": "./images/perks/Perk_Image_Bonsai.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -87,7 +87,7 @@
             "effect": "Melee and Unarmed attacks cost -1 AP",
             "ranks": "1",
             "requirement": "Agility 6, Level 15",
-            "perkImage": "./images/perks/Perk_Image_Animal_Bonus_HtH_Attacks.png",
+            "image": "./images/perks/Perk_Image_Animal_Bonus_HtH_Attacks.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -96,7 +96,7 @@
             "effect": "+2 MD for each rank",
             "ranks": "3",
             "requirement": "Agility 6, Strength 6, Level 3",
-            "perkImage": "./images/perks/Perk_Image_Bonus_HtH_Damage.png",
+            "image": "./images/perks/Perk_Image_Bonus_HtH_Damage.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -105,7 +105,7 @@
             "effect": "+2 AP for movement only",
             "ranks": "2",
             "requirement": "Agility 5, Level 6",
-            "perkImage": "./images/perks/Perk_Image_Bonus_Move.png",
+            "image": "./images/perks/Perk_Image_Bonus_Move.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -114,7 +114,7 @@
             "effect": "+2 RNG damage for each rank",
             "ranks": "2",
             "requirement": "Agility 6, Luck 6, Level 6",
-            "perkImage": "./images/perks/Perk_Image_Bonus_Ranged_Damage.png",
+            "image": "./images/perks/Perk_Image_Bonus_Ranged_Damage.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -123,7 +123,7 @@
             "effect": "-1AP for RNG attacks",
             "ranks": "1",
             "requirement": "Requirements: Strength 7, Big Guns 80%, Level 4.",
-            "perkImage": "./images/perks/Perk_Image_Bonus_Rate_of_Fire.png",
+            "image": "./images/perks/Perk_Image_Bonus_Rate_of_Fire.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -132,7 +132,7 @@
             "effect": "Same bonus as tripod while holding weapons while standing",
             "ranks": "2",
             "requirement": "Agility 7, Intelligence 6, Perception 6, Level 15",
-            "perkImage": "./images/perks/Perk_Image_Bracing.png",
+            "image": "./images/perks/Perk_Image_Bracing.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -141,7 +141,7 @@
             "effect": "Next time chose any perk (race doesnt matter)",
             "ranks": "1",
             "requirement": "Luck 6, Level 20",
-            "perkImage": "./images/perks/Perk_Image_Break_the_Rules.png",
+            "image": "./images/perks/Perk_Image_Break_the_Rules.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -150,7 +150,7 @@
             "effect": "+2HR and regenerate crippled limbs in 48 hours",
             "ranks": "1",
             "requirement": "Only Ghouls can choose this perk. Strength < 7, Level 6",
-            "perkImage": "./images/perks/Perk_Image_Cancerous_Growth.png",
+            "image": "./images/perks/Perk_Image_Cancerous_Growth.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -159,7 +159,7 @@
             "effect": "+3 PE to when determining random encounters",
             "ranks": "1",
             "requirement": "Perception 6, Level 3",
-            "perkImage": "./images/perks/Perk_Image_Cautious_Nature.png",
+            "image": "./images/perks/Perk_Image_Cautious_Nature.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -168,7 +168,7 @@
             "effect": "Extra bonus from reading books",
             "ranks": "1",
             "requirement": "Intelligence 6, Level 3",
-            "perkImage": "./images/perks/Perk_Image_Comprehension.png",
+            "image": "./images/perks/Perk_Image_Comprehension.png",
             "source": "Fallout PNP 2.0"
         }
     ]
