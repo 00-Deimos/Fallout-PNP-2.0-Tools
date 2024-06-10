@@ -25,7 +25,21 @@
             "name": "Unarmed",
             "description" : "This is the skill of beating people up with your fists and feet. The better you are at this skill, the more likely you are going to hit them in combat. This skill also covers the use of weapons that enhance unarmed combat such as brass knuckles, spiked knuckles, and the legendary Power Fist. At higher skill levels, you will learn new techniques of fighting. Everyone starts with a good Unarmed skill, since the basic concept is pretty simple.",
             "formula": "30% + (2 X (AG + STR))",
-            "image": "./images/skills/Skill_Image_Piercing_Strike.png",
+            "image": "./images/skills/Skill_Image_Unarmed.png",
+            "source": "Fallout PNP 2.0"
+        },        
+        {
+            "name": "Melee",
+            "description" : "This covers the use of most melee weapons. Knives, spears, hammers, and crowbars are all melee weapons. Since using simple tools to beat things is something fairly innate to human nature, this is usually a pretty high skill.",
+            "formula": "20% + (2 X (AG + STR))",
+            "image": "./images/skills/Skill_Image_Melee.png",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Throwing",
+            "description" : "Whenever a weapon is thrown, this skill gets used. Throwing knives, small rocks, and grenades are throwing weapons. If you miss, the object still has to end up somewhere. It is possible to throw a weapon and have it end up right at your feet. If it's a knife, no big deal. If it's a grenade, that's a really big deal. The maximum distance you can throw a weapon is based on your character's Strength, and the type of weapon thrown.",
+            "formula": "0% + (4 X AG)",
+            "image": "./images/skills/Skill_Image_Throwing.png",
             "source": "Fallout PNP 2.0"
         },
         {
