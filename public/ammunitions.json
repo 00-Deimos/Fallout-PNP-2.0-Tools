@@ -1,0 +1,274 @@
+{
+    "ammunitions" : [
+        {
+            "name": "BBs",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "100",
+            "damage": "1d4",
+            "value": "100",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Arrow",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "5",
+            "damage": "1d4",
+            "value": "5",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".22",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "50",
+            "damage": "1d6",
+            "value": "150",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".223 FMJ",
+            "acMod": "0",
+            "drMod": "-10",
+            "quantity": "20",
+            "damage": "1d10",
+            "value": "400",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".223 AP",
+            "acMod": "-15",
+            "drMod": "0 Ignores DT",
+            "quantity": "20",
+            "damage": "1d6",
+            "value": "400",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".308",
+            "acMod": "-15",
+            "drMod": "-20",
+            "quantity": "50",
+            "damage": "1d10",
+            "value": "400",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".357 Magum",
+            "acMod": "-10",
+            "drMod": "-10",
+            "quantity": "50",
+            "damage": "1d6",
+            "value": "150",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".38 Caliber",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "10",
+            "damage": "1d6",
+            "value": "100",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".44 Magnum JHP",
+            "acMod": "0",
+            "drMod": "-10",
+            "quantity": "20",
+            "damage": "1d8",
+            "value": "200",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".44 Magnum AP",
+            "acMod": "- 10",
+            "drMod": "0 Ignores DT",
+            "quantity": "20",
+            "damage": "1d6",
+            "value": "250",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".45 Caliber",
+            "acMod": "0",
+            "drMod": "-5",
+            "quantity": "50",
+            "damage": "1d6",
+            "value": "150",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": ".50 BMG",
+            "acMod": "-10",
+            "drMod": "-20",
+            "quantity": "100",
+            "damage": "1d6",
+            "value": "1000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "12 Gauge Shotgun Shells (Buckshot)",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "20",
+            "damage": "1d10",
+            "value": "150",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "12 Gauge Shotgun Shells (EMP)",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "20",
+            "damage": "2d20 (non-biological only)",
+            "value": "500",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "2mm EC",
+            "acMod": "-20",
+            "drMod": "-20",
+            "quantity": "20",
+            "damage": "1d10",
+            "value": "2000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "4.7mm Caseless",
+            "acMod": "-10",
+            "drMod": "-10",
+            "quantity": "20",
+            "damage": "1d10",
+            "value": "1000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "5.56mm",
+            "acMod": "0",
+            "drMod": "-20",
+            "quantity": "50",
+            "damage": "1d8",
+            "value": "600",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "7.62mm",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "50",
+            "damage": "1d10",
+            "value": "300",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "7.65mm",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "50",
+            "damage": "1d8",
+            "value": "300",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "9mm JHP",
+            "acMod": "0",
+            "drMod": "-10",
+            "quantity": "20",
+            "damage": "1d6",
+            "value": "200",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "9mm AP",
+            "acMod": "-10",
+            "drMod": "0 Ignores DT",
+            "quantity": "20",
+            "damage": "1d4",
+            "value": "250",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "10mm JHP",
+            "acMod": "0",
+            "drMod": "-10",
+            "quantity": "20",
+            "damage": "1d6",
+            "value": "300",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "10mm AP",
+            "acMod": "-10",
+            "drMod": "0 Ignores DT",
+            "quantity": "20",
+            "damage": "1d4",
+            "value": "350",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "14mm JHP",
+            "acMod": "0",
+            "drMod": "-20",
+            "quantity": "20",
+            "damage": "1d10",
+            "value": "1000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "14mm AP",
+            "acMod": "-20",
+            "drMod": "0 Ignores DT",
+            "quantity": "20",
+            "damage": "1d8",
+            "value": "1200",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "HN Needler",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "10",
+            "damage": "3d10",
+            "value": "1500",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Rocket (Explosive)",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "10",
+            "damage": "6d8",
+            "value": "2000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Flamer Fire Pack",
+            "acMod": "0",
+            "drMod": "-10",
+            "quantity": "10",
+            "damage": "3d8 plus fire",
+            "value": "2000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Small Energy Cell",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "20",
+            "damage": "N/A",
+            "value": "2000",
+            "source": "Fallout PNP 2.0"
+        },
+        {
+            "name": "Micro Fusion Cell",
+            "acMod": "0",
+            "drMod": "0",
+            "quantity": "20",
+            "damage": "N/A",
+            "value": "2000",
+            "source": "Fallout PNP 2.0"
+        }
+    ]
+}
