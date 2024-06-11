@@ -1,5 +1,5 @@
 {
-    "Skills" : [
+    "skills" : [
         {
             "name": "Small Guns",
             "description" : "This skill covers the use of bows, pistols, sub-machine guns, rifles, and shotguns. The higher your Small Guns skill, the easier it will be for you to hit your target, and the longer the effective range you will have in combat.",
