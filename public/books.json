@@ -1,0 +1,16 @@
+{
+    "books" : [
+        {
+            "name": "Jason Mical's Pen and Paper 2.0",
+            "image": "./images/books/Book_Image_Fallout_Bible.png",
+            "publish" : "2001",
+            "type": "Core"
+        },
+        {
+            "name": "Fallout Bible",
+            "image": "./images/books/Book_Image_Fallout_BibleBook_Image_Jason_Micals_Pen_and_Paper_2.0.png",
+            "publish" : "2002",
+            "type": "Supplement"
+        }
+    ]
+}
