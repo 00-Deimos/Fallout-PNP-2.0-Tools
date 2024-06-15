@@ -1,8 +1,8 @@
 {
-    "armors" : [
+    "items" : [
         {
-            "name": "A chemical-packed stick that, when ignited, will provide light for about an hour.",
-            "description" : "",
+            "name": "Flare",
+            "description" : "A chemical-packed stick that, when ignited, will provide light for about an hour.",
             "type": "Equipment",
             "weight": "1",
             "value": "10",
