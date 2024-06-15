@@ -8,7 +8,7 @@
             "weigh": "110 to 280 lb",
             "minStat": ["1", "1", "1", "1", "1", "1", "1"],
             "maxStat": ["10", "10", "10", "10", "10", "10", "10"],
-            "image": "./images/perks/Race_Image_Human.png",
+            "image": "./images/races/Race_Image_Human.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -19,7 +19,7 @@
             "weigh": "80 to 160 lb",
             "minStat": ["1", "4", "1", "1", "2", "1", "5"],
             "maxStat": ["8", "13", "10", "10", "10", "6", "12"],
-            "image": "./images/perks/Race_Image_Ghoul.png",
+            "image": "./images/races/Race_Image_Ghoul.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -30,7 +30,7 @@
             "weigh": "350 lb",
             "minStat": ["5", "1", "4", "1", "1", "1", "1"],
             "maxStat": ["13", "11", "11", "7", "11", "8", "10"],
-            "image": "./images/perks/Race_Image_Mutant.png",
+            "image": "./images/races/Race_Image_Mutant.png",
             "source": "Fallout PNP 2.0"
         },
         {
@@ -41,7 +41,7 @@
             "weigh": "300 to 400 lb",
             "minStat": ["7", "7", "7", "1", "1", "1", "5"],
             "maxStat": ["12", "12", "12", "1", "12", "12", "5"],
-            "image": "./images/perks/Race_Image_Robot.png",
+            "image": "./images/races/Race_Image_Robot.png",
             "source": "Fallout PNP 2.0"
         }
     ]
