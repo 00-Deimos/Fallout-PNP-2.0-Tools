@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Races",
+        "icon": "/images/homeIcons/Home_Icon_Races.png"
+    },
+    {
+        "id": 2,
+        "name": "Traits",
+        "icon": "/images/homeIcons/Home_Icon_Traits.png"
+    },
+    {
+        "id": 3,
+        "name": "SPECIAL",
+        "icon": "/images/homeIcons/Home_Icon_SPECIAL.png"
+    },
+    {
+        "id": 4,
+        "name": "Derived Statistics",
+        "icon": "/images/homeIcons/Home_Icon_Derived_Statistics.png"
+    },
+    {
+        "id": 5,
+        "name": "Skills",
+        "icon": "/images/homeIcons/Home_Icon_Skills.png"
+    },
+    {
+        "id": 6,
+        "name": "Perks",
+        "icon": "/images/homeIcons/Home_Icon_Perks.png"
+    },
+    {
+        "id": 7,
+        "name": "Karma",
+        "icon": "/images/homeIcons/Home_Icon_Reputation.png"
+    },
+    {
+        "id": 8,
+        "name": "Backgrounds",
+        "icon": "/images/homeIcons/Home_Icon_Backgrounds.png"
+    },
+    {
+        "id": 9,
+        "name": "Books",
+        "icon": "/images/homeIcons/Home_Icon_Books.png"
+    },
+    {
+        "id": 10,
+        "name": "Glossary",
+        "icon": "/images/homeIcons/Home_Icon_Glossary.png"
+    },
+    {
+        "id": 11,
+        "name": "Quick Reference",
+        "icon": "/images/homeIcons/Home_Icon_Quick_Reference.png"
+    },
+    {
+        "id": 12,
+        "name": "Conditions",
+        "icon": "/images/homeIcons/Home_Icon_Conditions.png"
+    },
+    {
+        "id": 13,
+        "name": "Bestiary",
+        "icon": "/images/homeIcons/Home_Icon_Bestiary.png"
+    },
+    {
+        "id": 14,
+        "name": "Items",
+        "icon": "/images/homeIcons/Home_Icon_Items.png"
+    },
+    {
+        "id": 15,
+        "name": "Lore",
+        "icon": "/images/homeIcons/Home_Icon_Lore.png"
+    },
+    {
+        "id": 16,
+        "name": "Map",
+        "icon": "/images/homeIcons/Home_Icon_Map.png"
+    }
+]
