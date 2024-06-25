@@ -20,6 +20,9 @@ export default function HomeMain () {
     return (
         <main>
             <div className="playerHomeButtons">
+                <div className="playerHomeButtonsTitle">
+                    <h2>Player</h2>
+                </div>
                 {
                     playerHomeButtons.map( playerHomeButton => ( 
 
@@ -31,6 +34,9 @@ export default function HomeMain () {
                 }
             </div>
             <div className="overseerHomeButtons">
+                <div className="overseerHomeButtonsTitle">
+                    <h2>Overseer</h2>
+                </div>
                 {
                     overseerHomeButtons.map( overseerHomeButton => ( 
 

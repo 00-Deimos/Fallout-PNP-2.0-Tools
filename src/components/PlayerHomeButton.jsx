@@ -4,7 +4,7 @@ export default function PlayerHomeButton ({props}) {
 
         <div className="homeButton">
             <div className="homeButtonIcon">
-                <img src={props.icon} />
+                <img src={props.icon} alt=""/>
             </div>
             <div className="homeButtonName">
                 <h4>{props.name}</h4>
