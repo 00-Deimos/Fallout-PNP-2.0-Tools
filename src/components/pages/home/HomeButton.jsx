@@ -1,7 +1,6 @@
-export default function PlayerHomeButton ({props}) {
+export default function HomeButton ({props}) {
 
     return (
-
         <div className="homeButton">
             <div className="homeButtonIcon">
                 <img src={props.icon} alt=""/>

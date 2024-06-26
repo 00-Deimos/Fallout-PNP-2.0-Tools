@@ -1,14 +1,13 @@
 import { useEffect, useState } from "react";
-import PlayerHomeButton from "./PlayerHomeButton";
-import OverseerHomeButton from "./OverseerHomeButton";
+import HomeButton from "./HomeButton";
 
-export default function HomeMain () {
+export default function Home () {
 
     const [homeButtons, setHomeButtons] = useState ([]);
 
     useEffect (() => {
 
-        fetch("data/homeButtons.json")
+        fetch("/data/pages_data/homeButtons.json")
         .then(response => response.json () )
         .then( homeButtons => setHomeButtons(homeButtons));
 
@@ -25,8 +24,7 @@ export default function HomeMain () {
                 </div>
                 {
                     playerHomeButtons.map( playerHomeButton => ( 
-
-                        <PlayerHomeButton 
+                        <HomeButton 
                             key={playerHomeButton.id}
                             props={playerHomeButton}
                         />
@@ -39,8 +37,7 @@ export default function HomeMain () {
                 </div>
                 {
                     overseerHomeButtons.map( overseerHomeButton => ( 
-
-                        <OverseerHomeButton 
+                        <HomeButton 
                                 key={overseerHomeButton.id}
                                 props={overseerHomeButton}
                         />

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Races",
+        "icon": "/images/home_icons/Home_Icon_Races.png"
+    },
+    {
+        "id": 2,
+        "name": "Traits",
+        "icon": "/images/home_icons/Home_Icon_Traits.png"
+    },
+    {
+        "id": 3,
+        "name": "SPECIAL",
+        "icon": "/images/home_icons/Home_Icon_SPECIAL.png"
+    },
+    {
+        "id": 4,
+        "name": "Derived Statistics",
+        "icon": "/images/home_icons/Home_Icon_Derived_Statistics.png"
+    },
+    {
+        "id": 5,
+        "name": "Skills",
+        "icon": "/images/home_icons/Home_Icon_Skills.png"
+    },
+    {
+        "id": 6,
+        "name": "Perks",
+        "icon": "/images/home_icons/Home_Icon_Perks.png"
+    },
+    {
+        "id": 7,
+        "name": "Reputation",
+        "icon": "/images/home_icons/Home_Icon_Reputation.png"
+    },
+    {
+        "id": 8,
+        "name": "Backgrounds",
+        "icon": "/images/home_icons/Home_Icon_Backgrounds.png"
+    },
+    {
+        "id": 9,
+        "name": "Books",
+        "icon": "/images/home_icons/Home_Icon_Books.png"
+    },
+    {
+        "id": 10,
+        "name": "Glossary",
+        "icon": "/images/home_icons/Home_Icon_Glossary.png"
+    },
+    {
+        "id": 11,
+        "name": "Quick References",
+        "icon": "/images/home_icons/Home_Icon_Quick_References.png"
+    },
+    {
+        "id": 12,
+        "name": "Bestiary",
+        "icon": "/images/home_icons/Home_Icon_Bestiary.png"
+    },
+    {
+        "id": 13,
+        "name": "Random Encounters",
+        "icon": "/images/home_icons/Home_Icon_Random_Encounters.png"
+    },
+    {
+        "id": 14,
+        "name": "Items",
+        "icon": "/images/home_icons/Home_Icon_Items.png"
+    },
+    {
+        "id": 15,
+        "name": "Fallout Timeline",
+        "icon": "/images/home_icons/Home_Icon_Fallout_Timeline.png"
+    },
+    {
+        "id": 16,
+        "name": "Map",
+        "icon": "/images/home_icons/Home_Icon_Map.png"
+    }
+]
