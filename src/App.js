@@ -14,6 +14,8 @@ import DerivedStatistics from './components/pages/DerivedStatistics';
 import Skills from './components/pages/Skills';
 import Perks from './components/pages/Perks';
 import Reputation from './components/pages/Reputation';
+import Backgrounds from './components/pages/Backgrounds';
+import Items from './components/pages/Items';
 import FalloutTimeline from './components/pages/FalloutTimeline';
 import Map from './components/pages/Map';
 
@@ -37,6 +39,8 @@ function App() {
           <Route path="/skills" element={ <Skills />} />
           <Route path="/perks" element={ <Perks />}  />
           <Route path="/reputation" element={ <Reputation />} />
+          <Route path="/backgrounds" element={ <Backgrounds />} />
+          <Route path="items" element={ <Items /> } />
           <Route path="/fallouttimeline" element={ <FalloutTimeline />} />
           <Route path="/map" element={ <Map />} />
         </Routes>

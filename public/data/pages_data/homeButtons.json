@@ -2,81 +2,98 @@
     {
         "id": 1,
         "name": "Races",
-        "icon": "/images/home_icons/Home_Icon_Races.png"
+        "icon": "/images/home_icons/Home_Icon_Races.png",
+        "url": "/races"
     },
     {
         "id": 2,
         "name": "Traits",
-        "icon": "/images/home_icons/Home_Icon_Traits.png"
+        "icon": "/images/home_icons/Home_Icon_Traits.png",
+        "url": "/traits"
+
     },
     {
         "id": 3,
         "name": "SPECIAL",
-        "icon": "/images/home_icons/Home_Icon_SPECIAL.png"
+        "icon": "/images/home_icons/Home_Icon_SPECIAL.png",
+        "url": "/special"
     },
     {
         "id": 4,
         "name": "Derived Statistics",
-        "icon": "/images/home_icons/Home_Icon_Derived_Statistics.png"
+        "icon": "/images/home_icons/Home_Icon_Derived_Statistics.png",
+        "url": "/derivedstatistics"
     },
     {
         "id": 5,
         "name": "Skills",
-        "icon": "/images/home_icons/Home_Icon_Skills.png"
+        "icon": "/images/home_icons/Home_Icon_Skills.png",
+        "url": "/skills"
     },
     {
         "id": 6,
         "name": "Perks",
-        "icon": "/images/home_icons/Home_Icon_Perks.png"
+        "icon": "/images/home_icons/Home_Icon_Perks.png",
+        "url": "/perks"
     },
     {
         "id": 7,
         "name": "Reputation",
-        "icon": "/images/home_icons/Home_Icon_Reputation.png"
+        "icon": "/images/home_icons/Home_Icon_Reputation.png",
+        "url": "/reputations"
     },
     {
         "id": 8,
         "name": "Backgrounds",
-        "icon": "/images/home_icons/Home_Icon_Backgrounds.png"
+        "icon": "/images/home_icons/Home_Icon_Backgrounds.png",
+        "url": "/backgrounds"
     },
     {
         "id": 9,
         "name": "Books",
-        "icon": "/images/home_icons/Home_Icon_Books.png"
+        "icon": "/images/home_icons/Home_Icon_Books.png",
+        "url": "/books"
     },
     {
         "id": 10,
         "name": "Glossary",
-        "icon": "/images/home_icons/Home_Icon_Glossary.png"
+        "icon": "/images/home_icons/Home_Icon_Glossary.png",
+        "url": "/glossary"
     },
     {
         "id": 11,
         "name": "Quick References",
-        "icon": "/images/home_icons/Home_Icon_Quick_References.png"
+        "icon": "/images/home_icons/Home_Icon_Quick_References.png",
+        "url": "/quickreferences"
     },
     {
         "id": 12,
         "name": "Bestiary",
-        "icon": "/images/home_icons/Home_Icon_Bestiary.png"
+        "icon": "/images/home_icons/Home_Icon_Bestiary.png",
+        "url": "/bestiary"
     },
     {
         "id": 13,
         "name": "Random Encounters",
-        "icon": "/images/home_icons/Home_Icon_Random_Encounters.png"
+        "icon": "/images/home_icons/Home_Icon_Random_Encounters.png",
+        "url": "/randomecounters"
     },
     {
         "id": 14,
         "name": "Items",
-        "icon": "/images/home_icons/Home_Icon_Items.png"
+        "icon": "/images/home_icons/Home_Icon_Items.png",
+        "url": "/items"
     },
     {
         "id": 15,
         "name": "Fallout Timeline",
-        "icon": "/images/home_icons/Home_Icon_Fallout_Timeline.png"
+        "icon": "/images/home_icons/Home_Icon_Fallout_Timeline.png",
+        "url": "/fallouttimeline"
     },
     {
         "id": 16,
         "name": "Map",
-        "icon": "/images/home_icons/Home_Icon_Map.png"
+        "icon": "/images/home_icons/Home_Icon_Map.png",
+        "url": "/map"
     }
 ]

@@ -19,7 +19,7 @@ export default function Navbar() {
                         <li><NavLink to="/randomecounters">Random Encounters</NavLink></li> 
                     </ul>
                 </li>
-                <li>Playeres
+                <li>Players
                     <ul>
                         <li><NavLink to="/races">Races</NavLink></li>
                         <li><NavLink to="/special">SPECIAL</NavLink></li>
@@ -29,6 +29,7 @@ export default function Navbar() {
                         <li><NavLink to="/perks">Perks</NavLink></li>
                         <li>Karmatic Perks</li>
                         <li><NavLink to="/reputation">Reputation</NavLink></li>
+                        <li><NavLink to="/backgrounds">Backgrounds</NavLink></li>
                         <li>Conditions</li>    
                     </ul>
                 </li>

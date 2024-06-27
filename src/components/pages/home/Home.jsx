@@ -18,31 +18,29 @@ export default function Home () {
 
     return (
         <main>
-            <div className="playerHomeButtons">
-                <div className="playerHomeButtonsTitle">
+            <div className="homeButtons">
+                <div className="playerHomeButtons">
                     <h2>Player</h2>
+                    {
+                        playerHomeButtons.map( playerHomeButton => ( 
+                            <HomeButton 
+                                key={playerHomeButton.id}
+                                props={playerHomeButton}
+                            />
+                        ))
+                    }
                 </div>
-                {
-                    playerHomeButtons.map( playerHomeButton => ( 
-                        <HomeButton 
-                            key={playerHomeButton.id}
-                            props={playerHomeButton}
-                        />
-                    ))
-                }
-            </div>
-            <div className="overseerHomeButtons">
-                <div className="overseerHomeButtonsTitle">
+                <div className="overseerHomeButtons">
                     <h2>Overseer</h2>
+                    {
+                        overseerHomeButtons.map( overseerHomeButton => ( 
+                            <HomeButton 
+                                    key={overseerHomeButton.id}
+                                    props={overseerHomeButton}
+                            />
+                        ))
+                    }
                 </div>
-                {
-                    overseerHomeButtons.map( overseerHomeButton => ( 
-                        <HomeButton 
-                                key={overseerHomeButton.id}
-                                props={overseerHomeButton}
-                        />
-                    ))
-                }
             </div>
             <h3>What is Fallout PNP 2.0?</h3>
             <blockquote>
