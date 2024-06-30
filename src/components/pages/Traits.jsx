@@ -21,7 +21,6 @@ export default function Traits () {
 
     function handleClick(trait) {
         setSelectedTrait(trait);
-        console.log(selectedTrait);
     };
 
     return (
