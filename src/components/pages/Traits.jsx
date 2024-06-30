@@ -3,10 +3,10 @@ import { NavLink } from "react-router-dom";
 import TableHead from "../UI/TableHead";
 import TableBody from "../UI/TableBody";
 import AsideCard from "../UI/AsideCard";
+import { abilitiesTableHeaders } from "../Utils/abilitiesTableHeaders";
 
 export default function Traits () {
 
-    const titles = ["Name", "Effect", "Requirement"]
     const [traits, setTraits] = useState([]);
     const [selectedTrait, setSelectedTrait] = useState("");
 
@@ -30,7 +30,7 @@ export default function Traits () {
            <table>
                 <thead>
                     <tr>
-                        { titles.map( (title,index) => <TableHead key={index} props={title} /> )}
+                        { abilitiesTableHeaders.map( (title,index) => <TableHead key={index} props={title} /> )}
                     </tr>
                 </thead>
                 <tbody>
