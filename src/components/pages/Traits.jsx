@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
-import TableHead from "../tables/TableHead";
-import TableBody from "../tables/TableBody";
-import AsideCard from "../tables/AsideCard";
+import TableHead from "../UI/TableHead";
+import TableBody from "../UI/TableBody";
+import AsideCard from "../UI/AsideCard";
 
 export default function Traits () {
 
