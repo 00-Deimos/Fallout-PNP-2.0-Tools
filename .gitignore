@@ -3,7 +3,9 @@
 # resources
 /public/*.png
 /public/*.ico
+/public/*.ogg
 /public/images
+/public/audio
 
 # dependencies
 /node_modules
