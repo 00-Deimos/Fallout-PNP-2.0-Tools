@@ -26,7 +26,14 @@ export default function Races () {
     return (
         <main>
             <h2>Races</h2>
-            <p>hile people of all races survived the Great War, the term "race" in Fallout world refers mostly to different kinds of human mutants, such as ghouls and super mutants, as well as humans themselves. Races have minimum and maximum statistic numbers; this means that the statistics for any given race cannot go below a minimum number or exceed a maximum number. In addition, each race gains perks at a different rate; this can combine with various traits that effect how fast a character gains perks.</p>
+            <blockquote>
+                <p>"Mutants are best equipped to deal with the world today. Who else? The ghouls. Please. Normals. They brought nuclear death to us all. This will be the age of mutants. Mutants."</p>
+                <footer>Richard Moreau, known as "The Master" to the Vault Dweller, 2161</footer>
+                <audio controls>
+                    <source src="/audio/Fo1_Master_The_World_Today.ogg" type="audio/ogg" /> 
+                </audio>  
+            </blockquote>
+            <p>While people of all races survived the Great War, the term "race" in Fallout world refers mostly to different kinds of human mutants, such as ghouls and super mutants, as well as humans themselves. Races have minimum and maximum statistic numbers; this means that the statistics for any given race cannot go below a minimum number or exceed a maximum number. In addition, each race gains perks at a different rate; this can combine with various traits that effect how fast a character gains perks.</p>
             <table>
                 <thead>
                     <tr>
