@@ -4,6 +4,7 @@ export default function AsideCard ({props}) {
         <aside>
             <div>
                 {props.name && <h3>{props.name}</h3>}
+                {props.ranks && <p>Ranks: {props.ranks}</p>}
                 {props.requirement && <p>Requirement: {props.requirement}</p>}
                 {props.weaponType && <td>{props.weaponType}</td>}
                 {props.itemType && <td>{props.itemType}</td>}
