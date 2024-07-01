@@ -6,16 +6,11 @@ export default function AsideCard ({props}) {
                 {props.name && <h3>{props.name}</h3>}
                 {props.ranks && <p>Ranks: {props.ranks}</p>}
                 {props.requirement && <p>Requirement: {props.requirement}</p>}
-                {props.weaponType && <td>{props.weaponType}</td>}
-                {props.itemType && <td>{props.itemType}</td>}
-                {props.xp && <td>{props.xp}</td>}
-                {props.apCost &&
-                    <dl>
-                        <dt>AP Cost:</dt>
-                        <dd>{props.apCost}</dd>
-                        <dd>{props.damge}</dd>
-                    </dl> 
-                }
+                {props.weaponType && <p>{props.weaponType}</p>}
+                {props.itemType && <p>{props.itemType}</p>}
+                {props.xp && <p>{props.xp}</p>}
+                {props.apCost && <p>AP Cost: {props.apCost}</p>}
+                {props.damage && <p>Damage: {props.damage}</p>}
             </div>
             {props.image &&
                 <div>
