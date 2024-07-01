@@ -18,12 +18,14 @@ export default function AsideCard ({props}) {
                 }
             </div>
             <div>
-                {props.description && <p>{props.description}</p>}
                 {props.image &&
                     <figure>
                         <img src={props.image} alt="" />
                     </figure>
                 }
+            </div>
+            <div>
+                {props.description && <p>{props.description}</p>}
                 {props.source && <p>Source: {props.source}</p>}
             </div>
             {props.sq &&
