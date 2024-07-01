@@ -28,7 +28,7 @@ export default function Races () {
             <h2>Races</h2>
             <blockquote>
                 <p>"Mutants are best equipped to deal with the world today. Who else? The ghouls. Please. Normals. They brought nuclear death to us all. This will be the age of mutants. Mutants."</p>
-                <footer>Richard Moreau, known as "The Master" to the Vault Dweller, 2161</footer>
+                <footer>Richard Moreau, known as "The Master" to the Vault Dweller,  <time datetime="2161">2161</time></footer>
                 <audio controls>
                     <source src="/audio/Fo1_Master_The_World_Today.ogg" type="audio/ogg" /> 
                 </audio>  
