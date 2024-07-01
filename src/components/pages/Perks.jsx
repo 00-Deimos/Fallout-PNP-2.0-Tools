@@ -8,6 +8,7 @@ export default function Perks () {
 
     const [perks, setPerks] = useState([]);
     const [selectedPerk, setSelectedPerk] = useState("");
+    const localTableHeaders = [...abilitiesTableHeaders, "Ranks"];
 
     useEffect (() => {
         fetch("/data/character/perks.json")
@@ -29,7 +30,7 @@ export default function Perks () {
            <table>
                 <thead>
                     <tr>
-                        { abilitiesTableHeaders.map( (title,index) => <TableHead key={index} props={title} /> )}
+                        { localTableHeaders.map( (title,index) => <TableHead key={index} props={title} /> )}
                     </tr>
                 </thead>
                 <tbody>

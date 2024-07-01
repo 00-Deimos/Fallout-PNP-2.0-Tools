@@ -63,6 +63,41 @@ export default function AsideCard ({props}) {
                     </dl> 
                 </div>
             }
+            {props.minStats && props.maxStats &&
+                <div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>STR</th>
+                                <th>PE</th>
+                                <th>EN</th>
+                                <th>CH</th>
+                                <th>IN</th>
+                                <th>AG</th>
+                                <th>LK</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Minimum</td>
+                                {props.minStats.map((minStat, index) => (
+                                    <td key={index}>
+                                        {minStat}
+                                    </td>
+                                ))}
+                            </tr>
+                            <tr>
+                                <td>Maximum</td>
+                                {props.maxStats.map((maxStat, index) => (
+                                    <td key={index}>
+                                        {maxStat}
+                                    </td>
+                                ))}
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            }
         </aside>
     );
 }

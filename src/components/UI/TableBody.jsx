@@ -20,12 +20,13 @@ export default function TableBody ({props}) {
             {props.weaponType && <td>{props.weaponType}</td>}
             {props.itemType && <td>{props.itemType}</td>}
             {props.critterType && <td>{props.critterType}</td>}
+            {props.perkRate && <td>{props.perkRate}</td>}
             {props.size && <td>{props.size}</td>}
             {props.weigh && <td>{props.weigh}</td>}
             {props.value && <td>{props.value}</td>}
             {props.effect && <td>{props.effect}</td>}
             {props.requirement && <td>{props.requirement}</td>}
-            {props.perkRate && <td>{props.perkRate}</td>}
+            {props.ranks && <td>{props.ranks}</td>}
             {props.publish && <td>{props.publish}</td>}
             {props.bookType && <td>{props.bookType}</td>}
         </>
