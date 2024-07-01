@@ -5,12 +5,12 @@ import TableBody from "../../UI/TableBody";
 export default function ItmWeapons () {
 
     const ammunitionsTableHeaders = ["Name", "AC Modifier", "DR Modifier", "Stack Size", "Damage", "Value"];
-    const [ammunitions, setammunitions] = useState([]);
+    const [ammunitions, setAmmunitions] = useState([]);
 
     useEffect (() => {
         fetch("/data/items/ammunitions.json")
             .then(response => response.json () )
-            .then( ammunitions => {setammunitions(ammunitions);});
+            .then( ammunitions => {setAmmunitions(ammunitions);});
     }, []);
 
     return (
