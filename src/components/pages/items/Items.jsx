@@ -1,5 +1,6 @@
 import ItmWeapons from "./ItmWeapons";
 import ItemsAmmo from "./ItemsAmmo";
+import ItmArmors from "./ItemsArmor";
 
 export default function Items () {
 
@@ -19,7 +20,8 @@ export default function Items () {
                 </li>
             </ul>
             <ItmWeapons />
-            <ItemsAmmo /> 
+            <ItemsAmmo />
+            <ItmArmors /> 
         </main>
     );
 }

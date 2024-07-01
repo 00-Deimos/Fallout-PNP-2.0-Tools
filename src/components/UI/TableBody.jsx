@@ -12,11 +12,11 @@ export default function TableBody ({props}) {
             {props.range && <td>{props.range}</td>}
             {props.ammunition && <td>{props.ammunition}</td>}
             {props.ac && <td>{props.ac}</td>}
-            {props.normal && <td>{props.normalDef}</td>}
-            {props.laser && <td>{props.laserDef}</td>}
-            {props.fire && <td>{props.fireDef}</td>}
-            {props.plasma && <td>{props.plasmaDef}</td>}
-            {props.explosive && <td>{props.explosiveDef}</td>}
+            {props.normalDef && <td>{props.normalDef}</td>}
+            {props.laserDef && <td>{props.laserDef}</td>}
+            {props.fireDef && <td>{props.fireDef}</td>}
+            {props.plasmaDef && <td>{props.plasmaDef}</td>}
+            {props.explosiveDef && <td>{props.explosiveDef}</td>}
             {props.itemType && <td>{props.itemType}</td>}
             {props.critterType && <td>{props.critterType}</td>}
             {props.perkRate && <td>{props.perkRate}</td>}
