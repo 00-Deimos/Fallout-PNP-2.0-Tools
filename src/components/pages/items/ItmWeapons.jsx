@@ -31,7 +31,6 @@ export default function ItmWeapons () {
                     <source src="/audio/NVMickPoliteSociety.ogg" type="audio/ogg" /> 
                 </audio>  
             <p>In the Wastes, you will find a diverse array of weapons that can range from the more primitive but reliable spear to the more advanced flesh-melting energy weapons like the plasma rifle. Remember that the effectiveness of guns depends both on if you can hold them and how much you've invested in their respective skill. You're more likely to blow your own foot off with the Bozar than hit the target if your big guns skill is lacking.</p>
-            <h4>Weapons List</h4>
             <table>
                 <caption>Weapons List</caption>
                 <thead>
