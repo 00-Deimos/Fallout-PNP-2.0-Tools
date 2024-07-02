@@ -1,180 +1,200 @@
-{
-    "items" : [
+[
         {
+            "id": "1", 
             "name": "Flare",
             "description" : "A chemical-packed stick that, when ignited, will provide light for about an hour.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "1",
             "value": "10",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "2", 
             "name": "Lighter",
             "description" : "When you need to get that molotov cocktail going, or burn that particular bridge.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "10",
             "value": "1",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "3", 
             "name": "Rope",
             "description" : "What role playing game would be complete without a rope? Perhaps one of the most useful items in the world. Consider this to be about 10 meters long.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "5",
             "value": "25",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "4", 
             "name": "Lockpick",
             "description" : "Gives the user a +50% bonus to Lockpick ability for the purposes of picking basic locks. Some locks require one of these (or a key) to open.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "1",
             "value": "40",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "5", 
             "name": "Tool Set",
             "description" : "A set of basic tools, such as small wrenches, pliers, some screwdrivers, and a hammer. For basic repairs.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "15",
             "value": "50",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "6", 
             "name": "Expanded Lockpick Set",
             "description" : "This little kit contains everything the aspiring thief needs to break into just about anything protected by a traditional lock. Gives a +70% bonus to the Lockpicking skill when used.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "1",
             "value": "150",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "7", 
             "name": "Medical Kit",
             "description" : "A first-aid kit that, when used, acts like one successful use of the First Aid skill, healing 1d10 points of damage in 1d10 minutes. Can only be used once.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "4",
             "value": "300",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "8", 
             "name": "Geiger Counter",
             "description" : "This useful little device not only detects how much radiation is in a person, it can detect harmful radiation in the surrounding area. Useful when you are wondering if that big glowing crater in the ground is dangerous.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "5",
             "value": "300",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "9", 
             "name": "Doctor’s Bag",
             "description" : "The Doctor’s Bag contains various sawbones instruments for diagnosing and treating various maladies. If a character has a Doctor’s Bag, it effectively raises the Doctor skill by 15% for the purposes of treating crippled limbs and blindness only.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "10",
             "value": "450",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "10", 
             "name": "Doctor’s Bag",
             "description" : "The Doctor’s Bag contains various sawbones instruments for diagnosing and treating various maladies. If a character has a Doctor’s Bag, it effectively raises the Doctor skill by 15% for the purposes of treating crippled limbs and blindness only.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "10",
             "value": "450",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "11", 
             "name": "Electronic Lockpick Mark II",
             "description" : "An improved Electronic Lockpick, used by phreakers, hackers, criminals, and CIA operatives before the War. With this tool, not only can a character open any electronic lock, but it contains a variety of interfaces for other electronic devices like mainframe computers, ATMs, and pocket calculators.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "5",
             "value": "500",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "12", 
             "name": "Vehicle Repair Kit",
             "description" : "A toolbox containing some necessary equipment for repairing a vehicle (actually, it can be used on any complex mechanical device). Contains a computer for interfacing with the vehicle to analyze the problem and a lot of repair tools.",
-            "type": "Equipment",
+            "itemType": "Equipment",
             "weight": "0.2",
             "value": "25",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "13", 
             "name": "Jet",
             "description" : "Jet is the new street drug of the post- nuclear world. No one knows exactly how it was made, except there are rumors that a mafia boss had it manufactured to aid in controlling large numbers of people. Considering that Jet is addictive from the first dose, that is not difficult to imagine. Jet comes in an inhaler, much like asthma medicine. After inhalation, the user gains +2 Action Points (up to 13), +1 Strength, and +1 Perception for 1d10 hours. After this time, the character loses two Action Points, 3 Strength, and 3 Perception. Jet is 80% addictive, although it is rumored that an antidote exists for the addiction – somewhere",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "25",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "14", 
             "name": "Healing Powder",
             "description" : "This is a simple healing powder that, when ingested, helps ease pain from minor wounds. It heals 1d10+5 HP when eaten, and causes the user to lose 1 Perception for 1 hour after consumption. Not addictive. The negative effects of this powder are cumulative.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "50",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "15", 
             "name": "Stimpak",
             "description" : "Stimpaks are small syringes with healing chems that ease pain and encourage cellular mitosis, helping cells restore themselves at an increased rate. Quite common before the war, they can be found, in one form or another, almost everywhere. When injected, the stimpak heals 1d10+10 HP. Not addictive.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "150",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "16", 
             "name": "Antidote",
             "description" : "Made from a variety of distilled poisons and antibodies, each dose of Antidote removes one level of poisoning. Antidote tastes and looks like cough syrup, and comes in little bottles. There is no official Antidote company in the wastes, and it is often something that country doctors and traveling quacks will sell for far more than it’s worth. Not addictive.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "150",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "17", 
             "name": "Buffout",
             "description" : "Buffout is a kind of temporary steroid, increasing mitochondrial activity in muscles for a brief period of time. Unfortunately, these same chemicals also impair brain function. Taking this drug is fine so long as you are about to slug it out in a boxing ring, but not recommended for operating a tank in combat. When swallowed, Buffout increases the user’s Strength by 2, Agility by 2, and Endurance by 3. The effects last one-half (round down) T 113 of 1d10 hours. After the effects wear off, the user loses 3 Strength, 3 Agility, and 2 Endurance for 1d10 hours. Buffout carries a 30% chance of addiction.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "200",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "18", 
             "name": "Mentats",
             "description" : "Mentats increase the user’s awareness for a short period of time, but are dangerous because of the intense aftereffects and high addiction rate. An experimental drug for the military at one time, these pills became popular in the prewar streets because of the intense high. When Mentats are swallowed, the user’s Perception increases by 2, Intelligence increases by 2, and Charisma increases by 1 (everyone’s more attractive when under the influence!). The effects last 1 hour, after which time the user’s Perception and Intelligence are decreased by 4 and Charisma is decreased by 3 for 1d10 hours. Mentats have a 60% chance of addiction.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "280",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "19", 
             "name": "Psycho",
             "description" : "Psycho is a drug that is much like a combination between Mentats and speed. This chemical cocktail is highly addictive and has horrible side effects, but the high it produces is worth it to many users. After injecting Psycho, the user’s Agility increases by 3, and their Intelligence is reduced by 3. The effects of Psycho last 1d10 hours, after which time the user loses 3 points to ALL Stats except Luck for 1d10 hours. Psycho is 50% addictive.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "400",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "20", 
             "name": "Super Stimpak",
             "description" : "This is an incredible melange of healing chems designed to aid wounded soldiers on the battlefield in crucial moments of combat. Super stimpaks come in a large clamp that fit around the arm and inject the chemicals into the user at various times, maximizing the effects of the chemicals. The whole injection process still takes less than a second. Super stimpaks heal 5d10+50 HP, but the user loses 1d10 HP after an hour from the aftershock. It is a good idea to get some other form of healing should the user’s HP drop to dangerous levels again. Not addictive.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "500",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "21", 
             "name": "Radaway",
             "description" : "Radaway, an obscure drug from prewar times, became one of the most useful after the bombs went off. It comes in an IV bag and must be taken through a drip IV over the period of about an hour. The Radaway works in the user’s system to bond with radioactive particles and wash them out. 1 day after use, the user loses 25 rads. 2 days after use, the user loses another 25 rads. Radaway, unfortunately, has an addiction rate of 20%.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "1500",
             "source": "Fallout PNP 2.0"
         },
         {
+            "id": "22", 
             "name": "Rad-X",
             "description" : "An ounce of prevention is worth a pound of cure, and that was the idea behind these drugs. Although they were never marketed for consumer use before the war, enough were made for militaries so that they are not unknown in the postwar world. Rad-X is a pill that increases the user’s Radiation Resistance by 50% for 1d10 hours after ingestion by creating a kind of radiation “anti-body” in the user. Not addictive.",
-            "type": "Chem",
+            "itemType": "Chem",
             "weight": "0.2",
             "value": "2000",
             "source": "Fallout PNP 2.0"
         }
     ]
-}
