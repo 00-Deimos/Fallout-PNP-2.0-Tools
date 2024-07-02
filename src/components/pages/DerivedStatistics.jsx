@@ -26,7 +26,7 @@ export default function DerivedStatistics () {
             <div>
                 <h3>Derived Statistics List</h3>
                 <div>
-                    <img src="/images/Special/SPECIAL_Image_General.gif" alt=""/>
+                    <img src="/images/secondaryStatistics/secondaryStatistic_General.gif" alt=""/>
                 </div>
                 <ul>
                     { derivedStats.map( stat => (
