@@ -34,10 +34,10 @@ export default function Navbar() {
                 </li>
                 <li>Items
                     <ul>
-                        <li><a href="items/#weapons">Weapons</a></li>
-                        <li><a href="items/#ammo">Ammunitions</a></li>
-                        <li><a href="items/#armor">Armor</a></li>
-                        <li><a href="items/#miscItems">Miscellaneous Items</a></li>
+                        <li><a href="/items#weapons">Weapons</a></li>
+                        <li><a href="/items#ammo">Ammunitions</a></li>
+                        <li><a href="/items#armor">Armor</a></li>
+                        <li><a href="/items#miscItems">Miscellaneous Items</a></li>
                     </ul>
                 </li>
                 <li>Lore
