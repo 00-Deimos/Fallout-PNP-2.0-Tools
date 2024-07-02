@@ -3,6 +3,7 @@ export default function TableBody ({props}) {
     return (
         <>
             {props.name && <td>{props.name}</td>}
+            {props.formula && <td>{props.formula}</td>}
             {props.xp && <td>{props.xp}</td>}
             {props.acMod && <td>{props.acMod}</td>}
             {props.drMod && <td>{props.drMod}</td>}

@@ -23,6 +23,11 @@ export default function AsideCard ({props}) {
                 {props.description && <p>{props.description}</p>}
                 {props.source && <p>Source: {props.source}</p>}
             </div>
+            {props.formula &&
+                <div>
+                    <p>Formula: {props.formula}</p>
+                </div>
+            }
             {props.sq &&
                 <div>
                     <ol>
