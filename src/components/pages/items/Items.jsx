@@ -1,6 +1,7 @@
 import ItmWeapons from "./ItmWeapons";
 import ItemsAmmo from "./ItemsAmmo";
 import ItmArmors from "./ItemsArmor";
+import MiscellaneousItems from "./MiscellaneousItems";
 
 export default function Items () {
 
@@ -21,7 +22,8 @@ export default function Items () {
             </ul>
             <ItmWeapons />
             <ItemsAmmo />
-            <ItmArmors /> 
+            <ItmArmors />
+            <MiscellaneousItems />
         </main>
     );
 }
