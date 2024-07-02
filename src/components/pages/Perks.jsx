@@ -3,6 +3,7 @@ import AsideCard from "../UI/AsideCard";
 import TableBody from "../UI/TableBody";
 import TableHead from "../UI/TableHead";
 import { abilitiesTableHeaders } from "../Utils/abilitiesTableHeaders";
+import { NavLink } from "react-router-dom";
 
 export default function Perks () {
 
@@ -26,7 +27,7 @@ export default function Perks () {
     return (
         <main>
            <h2>Perks</h2>
-           <p>Perks are bonuses obtainable by the player character in the SPECIAL character system. The number of ranks each perk has determines how many times the perk can be obtained. Perks are selected during leveling up, per the Perk Rate and they generally have stat requirements. Humans can pick a new perk every 3 levels. The Perk Rate is 4 for ghouls, Super Mutants, and Robots cannot pick perks at all.</p>
+           <p>Perks are bonuses obtainable by the player character in the <NavLink to="/special">SPECIAL</NavLink> character system. The number of ranks each perk has determines how many times the perk can be obtained. Perks are selected during leveling up, per the Perk Rate and they generally have stat requirements.Different <NavLink to="/races">races</NavLink> have different perk rates. Humans can pick a new perk every 3 levels. The Perk Rate is 4 for ghouls and Super Mutants, and Robots cannot pick perks at all.</p>
            <table>
                 <thead>
                     <tr>

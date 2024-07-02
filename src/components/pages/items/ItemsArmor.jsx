@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import TableHead from "../../UI/TableHead";
 import TableBody from "../../UI/TableBody";
 import AsideCard from "../../UI/AsideCard";
+import { NavLink } from "react-router-dom";
 
 export default function ItmArmors () {
 
@@ -30,7 +31,7 @@ export default function ItmArmors () {
                 <audio controls>
                     <source src="/audio/FNV_Aurelius_YouHaveTheRareHonor.ogg" type="audio/ogg" /> 
                 </audio>  
-            <p>Armor and clothing are wearable items which increase chances of survival or add special attributes. There are many types of armor and clothing ranging from Vault jumpsuits to power armor. Armor helps the player character by increasing their Armor Class, Damage Threshold and Damage Resistance. Different kinds of armor are better against different types of Damage. However, note that Heavier armor weighs a lot more than normal clothes, so it is important to have plenty of spare room to accommodate its weight. Heavier armor  will also increase noise volume and decrease the chances of successful sneaking.</p>
+            <p>Armor and clothing are wearable items which increase chances of survival or add <NavLink to="/special">SPECIAL</NavLink> attributes. There are many types of armor and clothing ranging from Vault jumpsuits to power armor. Armor helps the player character by increasing their Armor Class, Damage Threshold and Damage Resistance. Different kinds of armor are better against different types of Damage. However, note that Heavier armor weighs a lot more than normal clothes, so it is important to have plenty of spare room to accommodate its weight. Heavier armor  will also increase noise volume and decrease the chances of successful sneaking.</p>
             <p>Note that some armor may belong to a certain faction and can be used as a disguise to fool hostile factions into not attacking. This can also work the opposite way, causing faction members to attack.</p> 
             <table>
                 <caption>Armors List</caption>

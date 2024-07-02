@@ -30,7 +30,7 @@ export default function MiscellaneousItems () {
                 <audio controls>
                     <source src="/audio/FNV_MRCrier_AllowedToSell.ogg" type="audio/ogg" /> 
                 </audio>  
-            <p>Miscellaneous Items are any item that is not a weapon, ammunition, armor, or weapon enhancement. These are common (or semi-common), useful items in the wastes.</p> 
+            <p>Miscellaneous Items are any item that is not a <a href="#weapons">weapon</a>, <a href="#ammo">ammunition</a>, <a href="#armor">armor</a>, or weapon enhancement. These are common (or semi-common), useful items in the wastes.</p> 
             <table>
                 <caption>Miscellaneous Items List</caption>
                 <thead>
