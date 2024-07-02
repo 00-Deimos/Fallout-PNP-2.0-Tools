@@ -32,7 +32,7 @@ export default function AsideCard ({props}) {
                 <div>
                     <ol>
                         <li>SQ: { props.sq}</li>
-                        <li>AC: { props.ac}</li>
+                        <li>AC: { props.critterAc}</li>
                         <li>HP: { props.hp}</li>
                         <li>AP: { props.ap}</li>
                         <li>CC: { props.cc}</li>

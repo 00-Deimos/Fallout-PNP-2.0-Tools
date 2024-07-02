@@ -4,7 +4,6 @@ export default function TableBody ({props}) {
         <>
             {props.name && <td>{props.name}</td>}
             {props.formula && <td>{props.formula}</td>}
-            {props.xp && <td>{props.xp}</td>}
             {props.acMod && <td>{props.acMod}</td>}
             {props.drMod && <td>{props.drMod}</td>}
             {props.quantity && <td>{props.quantity}</td>}
@@ -20,6 +19,7 @@ export default function TableBody ({props}) {
             {props.explosiveDef && <td>{props.explosiveDef}</td>}
             {props.itemType && <td>{props.itemType}</td>}
             {props.critterType && <td>{props.critterType}</td>}
+            {props.xp && <td>{props.xp}</td>}
             {props.perkRate && <td>{props.perkRate}</td>}
             {props.size && <td>{props.size}</td>}
             {props.weight && <td>{props.weight}</td>} 
