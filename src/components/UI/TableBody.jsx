@@ -2,7 +2,9 @@ export default function TableBody ({props}) {
 
     return (
         <>
+            {props.bookImage &&<td><img src={props.bookImage} alt=""/></td>}
             {props.name && <td>{props.name}</td>}
+            {props.bookType && <td>{props.bookType}</td>}
             {props.formula && <td>{props.formula}</td>}
             {props.acMod && <td>{props.acMod}</td>}
             {props.drMod && <td>{props.drMod}</td>}
@@ -29,7 +31,6 @@ export default function TableBody ({props}) {
             {props.requirement && <td>{props.requirement}</td>}
             {props.ranks && <td>{props.ranks}</td>}
             {props.publish && <td>{props.publish}</td>}
-            {props.bookType && <td>{props.bookType}</td>}
         </>
     );
 }
