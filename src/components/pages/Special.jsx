@@ -31,8 +31,8 @@ export default function Special () {
                </div>
                <ul>
                     { special.map( stat => (
-                        <li onClick={() => handleClick(stat)}>
-                           {stat.name} 
+                        <li key={stat.id} onClick={() => handleClick(stat)}>
+                           {stat.name } 
                         </li>
                     )) } 
                 </ul>
