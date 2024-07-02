@@ -23,7 +23,7 @@ export default function ItmWeapons () {
     };
 
     return (
-        <section>
+        <section id="weapons">
             <h3>Weapons</h3>
             <q>"A polite society is an armed society!"</q>
             <p>Mick from Mick & Ralph's.</p>

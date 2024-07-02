@@ -14,7 +14,7 @@ export default function ItmWeapons () {
     }, []);
 
     return (
-        <section>
+        <section id="ammo">
             <h3>Ammunitions</h3>
             <q>"This type of .45 Automatic pistol was designed by one of my tribe almost four hundred years ago. Learning its use is a New Canaanite rite of passage."</q>
             <p>— Joshua Graham also known as the Burned Man</p>

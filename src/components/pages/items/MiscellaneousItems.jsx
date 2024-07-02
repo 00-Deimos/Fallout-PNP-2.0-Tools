@@ -23,7 +23,7 @@ export default function MiscellaneousItems () {
     };
 
     return (
-        <section>
+        <section id="miscItems">
             <h3>Miscellaneous Items</h3>
             <q>"We've got stuff we're not even allowed to sell, people. Only at Mick and Ralph's!"</q>
             <p>— Mick & Ralph's Crier</p>

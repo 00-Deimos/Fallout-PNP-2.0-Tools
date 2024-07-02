@@ -23,7 +23,7 @@ export default function ItmArmors () {
     };
 
     return (
-        <section>
+        <section id="armor">
             <h3>Armors</h3>
             <q>"It is the armor of a centurion. You have the rare honor of beholding it unspattered by the blood of my inferiors."</q>
             <p>— Aurelius of Phoenix</p>

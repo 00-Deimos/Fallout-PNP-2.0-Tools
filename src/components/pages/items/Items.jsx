@@ -13,10 +13,10 @@ export default function Items () {
             <ul>
                 <li>Fallout Items
                     <ul>
-                        <li>Weapons</li>
-                        <li>Ammunitions</li>
-                        <li>Armor</li>
-                        <li>Miscellaneous Items</li>
+                        <li><a href="#weapons">Weapons</a></li>
+                        <li><a href="#ammo">Ammunitions</a></li>
+                        <li><a href="#armor">Armor</a></li>
+                        <li><a href="#miscItems">Miscellaneous Items</a></li>
                     </ul>
                 </li>
             </ul>
