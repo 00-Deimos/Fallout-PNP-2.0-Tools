@@ -1,0 +1,51 @@
+[
+    {
+        "id": "crippled",
+        "name": "Crippled Limbs and Blindness",
+        "description": "Occasionally, a good critical hit or a really unlucky run-in with a trap will result in a crippled limb, or worse, blindness. A crippled (broken or maimed) leg reduces the character's movement by ½ - this means that it takes two AP to move one hex in combat. In addition, that character's effective Agility goes down to half its normal level. Two broken or crippled legs reduces movement to almost nil – a character can only move one hex per round of combat, and his or her effective Agility drops to 1. Crippled arms means that the character can no longer use that arm to hold a weapon in combat; it can still be used outside of combat, but takes much longer to perform even the most basic functions. For each crippled arm, the character loses 1 point of Agility. Characters with a crippled arm cannot use two-handed weapons; characters with two crippled arms cannot use any weapon at all. Blindness is a little worse. In addition to gaining all the penalties for being in total darkness (see Light Adjustments, above), the character's Perception drops to 1. Both blindness and crippled limbs can only be treated by a doctor (for a price) or by someone with the Doctor skill (for information on the Doctor skill, see Healing below). Note that a blind character cannot play doctor with themselves; someone else must cure them (the blind can't cure the blind in the Fallout universe). Successfully treated limbs and eyes still take 48 hours to return to close to normal status, with rest. Robots with crippled limbs or blindness must be “treated” with a successful use of the Repair skill in the same way a living creature is treated with Doctor. Unlike their flesh-and-blood counterparts, however, the robot gains full use of a repaired limb or sensor plate immediately.",
+        "image": "/images/conditions/Conditions_Image_Crippled.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "addiction",
+        "name": "Chems, Addiction, and Withdrawal",
+        "description": "Drug and chem addiction still exists in the post-nuclear world. From the uranium miner looking for a way to escape from a dead-end life to the mercenary who buffs himself up before battle, drugs are as commonplace as radiation in the Fallout universe. Most drugs and chemical substances have an addiction rate of some kind. When the drug is taken, the character rolls the drug's addiction rate (plus or minus any modifiers). If the roll \"succeeds,\" the character has developed a chemical dependency for the drug. Chemical dependencies are fine (in most cases) so long as the character keeps getting more of the drug. The problem is that many drugs are VERY expensive, and the distributors of drugs offer a few doses at a low price to get a person hooked, and then begin to jack that price up. When (not if) a character can no longer get a supply of drugs, they begin to go into withdrawal. Generally, after 24 hours, a character loses one point of Perception and one point of Agility. They also lose their ability to heal (see Healing, below). After another 24 hours, they lose two points of Perception and Agility (for a total of three points) and lose one point of Strength and Endurance. After another 24 hours, the character lapses into unconsciousness. They then must make an Endurance check every hour (with their modified Endurance). If the character has five successful checks in a row, they wake up and have shaken the addiction, but suffer a permanent loss of one point of Endurance. If the character fails five checks in a row, he or she dies. Withdrawal can be an agonizing time for the character and the party, especially in the middle of an adventure.",
+        "image": "/images/conditions/Conditions_Image_Addiction.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "irradiated",
+        "name": "Getting Irradiated",
+        "description": "Radiation is one of the most horrifying realities of the post-nuclear world. There will always be a certain degree of background radiation since the bombs went off, and a little bit of radiation encourages mutations in animals, some of which happen to be useful, at least evolutionarily speaking. Humans, however, weren't really designed to handle high amounts of radiation (ghouls and super-mutants are exceptions, of course). Not every source of radiation poisoning is immediately obvious; a character could just as easily accumulate rads camping in a highly radiated area for a few nights as they could walking through a blast crater. Radiation levels are measured in \"rads,\" a standard unit that measures how many radioactive particles enter the bloodstream. Around 1000 rads is considered lethal. The problem with radiation is that it doesn't leave the body for a long time - around 10 rads in 24 hours - and radiation sources put out hundreds of rads per day. A few rads won't hurt you - in fact, household smoke detectors contain Americium, a radioactive isotope. A person can take about 6 or 7 rads a day without feeling the side effects. Radiation is treatable only at qualified medical institutions and with certain kinds of drugs. Radiation resistance measures how much radiation doesn't enter the bloodstream (in a percentage of total rads). Of course, a character doesn't necessarily know how many rads he or she has accumulated, unless they own a Geiger counter. That's up to the GM to keep track of.",
+        "image": "/images/conditions/Conditions_Image_Irradiated.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "burned",
+        "name": "Fire and Acid Damage",
+        "description": "If a character is on fire (or covered in acid, or some other nasty problem) they suffer 1d6 points of damage per round. Remember that a round is 10 seconds of real time. Fire can be extinguished by spending one full combat round rolling on the ground, provided the ground isn’t on fire, too. The person or critter’s AC will be reduced to what they are wearing while on the ground, and they must spend the usual 4 AP to get up the next round. Note that the poor person still takes damage during the turn in which they are extinguishing themselves. Unfortunately, getting rid of acid is different. Acid usually has to be washed off with either water or chemicals, depending. Some acids are aggravated by water, so the character will want to consider the consequences carefully before he or she jumps in a swimming pool to wash off.",
+        "image": "/images/conditions/Conditions_Image_Burned.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "poisened",
+        "name": "Poisened",
+        "description": "Poison works a little bit like fire. If a character comes into contact with a poisonous object, such as a poison dart or a scorpion's tail, they make a roll against poison resistance. If that roll fails, they are poisoned. Each additional failure against a poison attack results in another level of poisoning. Different poisons do different things. Most only cause 1-2 points of damage per hour, or per round, although some result in death in a certain amount of time and others will lower stats temporarily. For each level of poisoning, the poison stays in the character's bloodstream for a certain amount of time, indicated on the chart below. If a scorpion stings a character three times, the character will be poisoned for three days. There are, of course, poison antidotes. If a character fights a poison off naturally (without the use of an antidote or a doctor), the antibodies he or she builds up add a +2% to their Poison Resistance. Note that if a poison lowers statistics, racial minimums are not taken into account; sickness can weaken even the strongest mutant.",
+        "image": "/images/conditions/Conditions_Image_Venom.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "gas",
+        "name": "Gas Damage",
+        "description": "Ever since its invention at the beginning of the First World War, chemical warfare has become a standard – and horrific – aspect of battle. A gas mask or certain kinds of armor will lessen the effects of gas attacks, but if a character is caught unaware, she will be subject to the gas’ terrible poisons. The effects vary from chemical to chemical, and the radius of the gas cloud is given in the weapon’s description. It is usually a good idea to run out of the effects of the cloud immediately; the lasting effects of the gas continue from the round in which the gas disperses, if the character is still standing in the cloud. Some armors will protect against gas attacks with built-in respirators and filters. As previously noted, there are two kinds of gas: the kind you inhale and the kind that hurts you just by skin contact. The stats for each kind of armor will explain what kind of resistance each suit gives against the two kinds of gas. Sometimes an item, such as a gas mask, will give the user a degree of resistance against one kind of gas or another.",
+        "image": "/images/conditions/Conditions_Image_Gas.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "death",
+        "name": "Death",
+        "description": "Oh death, that unavoidable final chapter to existence on Earth. Death comes in many forms: old age, car wrecks, and that random passing asteroid. In the Fallout universe, however, characters face the possibility of death every day. That's what makes it an exciting place, right? Sometimes, no matter how well a character plans, he or she ends up dead. Death is generally a one-way street; dead characters cannot come back to life. When I included that \"generally,\" I intentionally left room open for a myriad of possibilities. After all, the wastes are a big, strange place. When a character dies, it is considered customary to write \"DEAD\" in big, black letters across their character sheet. It may be prudent to have a couple of level one characters ready to go in case something like this happens. Meeting a new party member is only a random encounter away.",
+        "image": "/images/conditions/Conditions_Image_Death.png",
+        "source": "Fallout PNP 2.0"
+    }
+]
