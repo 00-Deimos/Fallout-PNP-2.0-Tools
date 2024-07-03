@@ -29,7 +29,6 @@ export default function Navbar() {
                         <li><NavLink to="/perks">Perks</NavLink></li>
                         <li><NavLink to="/reputation">Reputation</NavLink></li>
                         <li><a href="/reputation#karmaPerks">karmic Perks</a></li>
-                        <li><NavLink to="/backgrounds">Backgrounds</NavLink></li>  
                     </ul>
                 </li>
                 <li>Items
@@ -43,7 +42,7 @@ export default function Navbar() {
                 <li>Lore
                     <ul>
                         <li><NavLink to="/fallouttimeline">Fallout Timeline</NavLink></li>
-                        <li>Factions</li>
+                        <li><NavLink to="/factions">Factions</NavLink></li>  
                         <li><NavLink to="/map">Map</NavLink></li>  
                     </ul>
                 </li>

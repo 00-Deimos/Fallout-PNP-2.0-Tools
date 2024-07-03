@@ -44,9 +44,9 @@
     },
     {
         "id": 8,
-        "name": "Backgrounds",
-        "icon": "/images/home_icons/Home_Icon_Backgrounds.png",
-        "url": "/backgrounds"
+        "name": "Factions",
+        "icon": "/images/home_icons/Home_Icon_Factions.png",
+        "url": "/factions"
     },
     {
         "id": 9,
