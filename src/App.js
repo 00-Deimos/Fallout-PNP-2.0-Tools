@@ -2,7 +2,6 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header';
 import Home from './components/pages/home/Home';
-import QuickReferences from './components/pages/QuickReferences';
 import Glossary from './components/pages/Glossary';
 import Books from './components/pages/Books';
 import Bestiary from './components/pages/Bestiary';
@@ -18,6 +17,7 @@ import Backgrounds from './components/pages/Backgrounds';
 import Items from './components/pages/items/Items';
 import FalloutTimeline from './components/pages/FalloutTimeline';
 import Map from './components/pages/Map';
+import Conditions from './components/pages/Conditions';
 
 
 function App() {
@@ -27,7 +27,7 @@ function App() {
         <Header />
         <Routes >
           <Route path="/" element={ <Home />} />
-          <Route path="/quickreferences" element={ <QuickReferences />} />
+          <Route path="/conditions" element={ <Conditions />} />
           <Route path="/glossary" element={ <Glossary /> } />
           <Route path="/books" element={ <Books /> } />
           <Route path="/bestiary" element={ <Bestiary />} />

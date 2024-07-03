@@ -62,9 +62,9 @@
     },
     {
         "id": 11,
-        "name": "Quick References",
+        "name": "Conditions",
         "icon": "/images/home_icons/Home_Icon_Quick_References.png",
-        "url": "/quickreferences"
+        "url": "/conditions"
     },
     {
         "id": 12,

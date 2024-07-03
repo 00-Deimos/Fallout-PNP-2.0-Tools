@@ -8,9 +8,9 @@ export default function Navbar() {
                 <li><NavLink to="/">Home</NavLink></li>
                 <li>Rules
                     <ul>
-                        <li><NavLink to="/quickreferences">Quick References</NavLink></li>
                         <li><NavLink to="/glossary">Glosary</NavLink></li>
                         <li><NavLink to="/books">Books</NavLink></li>
+                        <li><NavLink to="/conditions">Conditions</NavLink></li>
                     </ul>
                 </li>
                 <li>Overseeres
@@ -28,8 +28,7 @@ export default function Navbar() {
                         <li><NavLink to="/skills">Skills</NavLink></li>
                         <li><NavLink to="/perks">Perks</NavLink></li>
                         <li><NavLink to="/reputation">Reputation</NavLink></li>
-                        <li><NavLink to="/backgrounds">Backgrounds</NavLink></li>
-                        <li>Conditions</li>    
+                        <li><NavLink to="/backgrounds">Backgrounds</NavLink></li>  
                     </ul>
                 </li>
                 <li>Items
