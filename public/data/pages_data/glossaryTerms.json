@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "name": "Combat",
+        "definition": "A sequence of events that takes place on a hex-grid in rounds of approximately 10 seconds each. Resolves with all parties that intend each other harm either fleeing or dead.",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "name": "Critter",
+        "definition": "A critter generally refers to a non-human NPC.",
+        "link": "/bestiary"
+    },
+    {
+        "id": 3,
+        "name": "Death",
+        "definition": "Death occurs when a character's hit points drop below 0 and no medical treatment is readily available. Death is final in the Fallout universe.",
+        "link": ""
+    },
+    {
+        "id": 4,
+        "name": "Experience (XP)",
+        "definition": "A numerical measure of the character's collective experiences in the Fallout universe. When a character has enough Experience points, she goes up a Level.",
+        "link": ""
+    },
+    {
+        "id": 5,
+        "name": "Fallout",
+        "definition": "A series of games from Interplay Productions, sequels to their popular Wasteland RPG, set in a post-nuclear universe; the same universe in which this open-ended RPG is set. Also, the radioactive dust particles scattered after a nuclear device detonates.",
+        "link": ""
+    },
+    {
+        "id": 6,
+        "name": "Overseer",
+        "definition": "The Overseer is sort of a storyteller and judge rolled into one. The GM relates the story to the players, telling them what their characters are experiencing, and they have a chance to control their character's responses. The GM does the majority of the dice rolls and controls all Non-Player Characters. The GM's word in any situation is final, and overrides even this rulebook. After all, it is the Overseer's world. Being Overseer requires a little imagination and a normal set of dice (1d4, 1d6, 1d8, 2d10, 1d12, 1d20).",
+        "link": ""
+    },
+    {
+        "id": 7,
+        "name": "Karma",
+        "definition": "A measure of whether a character has done more good than evil, more evil than good, or a healthy balance of the two.",
+        "link": ""
+    },
+    {
+        "id": 8,
+        "name": "Level",
+        "definition": "A measure of the Character's rank in the Fallout universe. When a Character gains a Level, it represents that they have gained enough Experience from their actions that they have a better grasp of the world around them.",
+        "link": ""
+    },
+    {
+        "id": 9,
+        "name": "Non-Player Character (NPC)",
+        "definition": "A Character in the Fallout universe that is not controlled by a Player; these Characters are controlled by the GM.",
+        "link": ""
+    },
+    {
+        "id": 10,
+        "name": "Perk",
+        "definition": "A Perk is a special reward a character gains every few levels.",
+        "link": "/perks"
+    },
+    {
+        "id": 11,
+        "name": "Player",
+        "definition": "The Player is one of the human participants in the game, more specifically a human in control of a character, called the Player Character.",
+        "link": ""
+    },
+    {
+        "id": 12,
+        "name": "Player Character (PC)",
+        "definition": "A Character in the game universe controlled by a Player. The Player's \"Alter Ego\" in the Fallout universe.",
+        "link": ""
+    },
+    {
+        "id": 13,
+        "name": "Primary Statistics (Statistics, Stats)",
+        "definition": "Primary statistics measure a Character's basic abilities, and include Strength, Perception, Endurance, Charisma, Intelligence, Agility, and Luck.",
+        "link": "/special"
+    },
+    {
+        "id": 14,
+        "name": "Rank",
+        "definition": "Not a position, but rather a measure of the \"level\" of some Perks.",
+        "link": ""
+    },
+    {
+        "id": 15,
+        "name": "Rolls Against",
+        "definition": "When you see this, an action requires a dice roll against a specific Stat or Skill. Rolls against Primary Statistics use 1d10 and must make equal to or less than that particular Stat to succeed. If a characters Stat is higher than 10, it doesnt affect the roll against that number, the action will still succeed no matter what. Some rolls against Stats have penalties this is where racial maximums will take effect. Rolls against Secondary Statistics and Skills use percentile dice (2d10) to do the same thing. A roll of 2 when rolling against Endurance, when your EN is 4, means your character managed to fight off the deadly plague. A roll of 75 when rolling against a 40% Outdoorsman skill means your character did not find the mutated cactus with the water that would have saved her life. Some rolls are made by the GM, without the characters or players - knowing the result.",
+        "link": ""
+    },
+    {
+        "id": 16,
+        "name": "Round",
+        "definition": "A round of combat is generally about 10 seconds long and lasts until all critters in combat have their turn.",
+        "link": ""
+    },
+    {
+        "id": 17,
+        "name": "Secondary Statistics (Derived Statistics)",
+        "definition": "These statistics are derived from mathematical formulae using numbers from various sources, such as Primary Statistics, Equipment, and so forth.",
+        "link": "/derivedstatistics"
+    },
+    {
+        "id": 18,
+        "name": "Skills",
+        "definition": "A numerical measure of how good your Character is at different skills in the Fallout universe. If you have the right skill, you can do anything.",
+        "link": "/skills"
+    },
+    {
+        "id": 19,
+        "name": "To Hit",
+        "definition": "After all the modifiers, To Hit is the number you need to roll against in combat to have your weapon connect with a critter and do harm to it.",
+        "link": ""
+    },
+    {
+        "id": 20,
+        "name": "Trait",
+        "definition": "Traits are bred-in abilities that make characters more unique. Most are often double-edged swords, and cannot change throughout the game.",
+        "link": "/traits"
+    },
+    {
+        "id": 21,
+        "name": "Turn",
+        "definition": "A turn in combat consists of one critter or character performing their actions. A turn lasts for 10 seconds of game time; however, all turns happen \"simultaneously\" within the 10-second combat round.",
+        "link": ""
+    },
+    {
+        "id": 22,
+        "name": "Dmg",
+        "definition": "Damage. Note that damage for guns is denameined by the type of ammunition used, and any bonuses the gun adds.",
+        "link": ""
+    },
+    {
+        "id": 23,
+        "name": "S",
+        "definition": "Single. Refers to a single target attack.",
+        "link": ""
+    },
+    {
+        "id": 24,
+        "name": "T",
+        "definition": "Targeted. Refers to a targeted attack.",
+        "link": ""
+    },
+    {
+        "id": 25,
+        "name": "B",
+        "definition": "Burst. Refers to a burst mode attack. See the rules under Attacking: Burst Mode in Combat: Attacking for details.",
+        "link": ""
+    },
+    {
+        "id": 26,
+        "name": "Rng",
+        "definition": "Range in meters. In standard combat, one hex is 1 meter in diameter.",
+        "link": ""
+    },
+    {
+        "id": 27,
+        "name": "W",
+        "definition": "Weight.",
+        "link": ""
+    },
+    {
+        "id": 28,
+        "name": "MD",
+        "definition": "Melee Damage.",
+        "link": ""
+    },
+    {
+        "id": 29,
+        "name": "HP",
+        "definition": "Hit Points.",
+        "link": ""
+    },
+    {
+        "id": 30,
+        "name": "SQ",
+        "definition": "Sequence.",
+        "link": ""
+    },
+    {
+        "id": 31,
+        "name": "AC",
+        "definition": "Armor Class.",
+        "link": ""
+    },
+    {
+        "id": 32,
+        "name": "DR",
+        "definition": "Damage Resistance.",
+        "link": ""
+    },
+    {
+        "id": 33,
+        "name": "DT",
+        "definition": "Damage Threshold.",
+        "link": ""
+    },
+    {
+        "id": 34,
+        "name": "AP",
+        "definition": "Action Points.",
+        "link": ""
+    },
+    {
+        "id": 35,
+        "name": "XP",
+        "definition": "Experience Value",
+        "link": ""
+    },
+    {
+        "id": 36,
+        "name": "CC",
+        "definition": "Critical Chance.",
+        "link": ""
+    },
+    {
+        "id": 37,
+        "name": "PR",
+        "definition": "Poison Resist.",
+        "link": ""
+    },
+    {
+        "id": 38,
+        "name": "RR",
+        "definition": "Radiation Resist.",
+        "link": ""
+    },
+    {
+        "id": 39,
+        "name": "GR",
+        "definition": "Gas Resist.",
+        "link": ""
+    },
+    {
+        "id": 40,
+        "name": "N",
+        "definition": "Normal Damage Modifier.",
+        "link": ""
+    },
+    {
+        "id": 41,
+        "name": "L",
+        "definition": "Laser Damage Modifier.",
+        "link": ""
+    },
+    {
+        "id": 42,
+        "name": "F",
+        "definition": "Fire Damage Modifier.",
+        "link": ""
+    },
+    {
+        "id": 43,
+        "name": "P",
+        "definition": "Plasma Damage Modifier.",
+        "link": ""
+    },
+    {
+        "id": 44,
+        "name": "E",
+        "definition": "Explosion Damage Modifier.",
+        "link": ""
+    }
+]
