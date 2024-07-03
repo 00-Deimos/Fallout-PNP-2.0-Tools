@@ -28,6 +28,7 @@ export default function Navbar() {
                         <li><NavLink to="/skills">Skills</NavLink></li>
                         <li><NavLink to="/perks">Perks</NavLink></li>
                         <li><NavLink to="/reputation">Reputation</NavLink></li>
+                        <li><a href="/reputation#karmaPerks">karmic Perks</a></li>
                         <li><NavLink to="/backgrounds">Backgrounds</NavLink></li>  
                     </ul>
                 </li>

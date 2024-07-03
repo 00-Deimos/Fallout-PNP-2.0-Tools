@@ -1,36 +1,38 @@
-{
-    "reputations" : [
-        {
-            "name": "Berserker",
-            "description" : "This dubious title is bestowed upon a character (or party) that manages to take out an entire town of people. If a village or small town disappears or ends up dead one day, someone is bound to notice and search for clues. For a mercenary looking for work in some warlord's army, this may be just the thing they want on their resume. For a person looking for honest work in a small town, you can bet that the bullets will be flying as soon as they aren't looking. Of course, taking out a city of a million is damn near impossible (a GM that would allow that ought to have their head examined, in addition to the combat taking over a year), but people will still hear about the person who exterminated a village of 100 tribals.",
-            "effect": "Bad characters have a better reaction toward you, while good characters have the opposite.",
-            "requirement": "Kill at least 25 people, and at least twice as many Good people as Bad people.",
-            "image": "./images/reputations/Reputations_Image_Berserker.png",
-            "source": "Fallout PNP 2.0"
-        },
-        {
-            "name": "Childkiller",
-            "description" : "A character earns this perk after they slay their first child. Whether a person is the purest good or the darkest evil, they realize that children are the most important thing in the wastes, as they represent the final hope for human survival. Characters who kill children are almost instantly recognized (word manages to get out fast) and hated. Storekeepers won't deal with Childkillers, and they can only find solace in the most evil or insane of places, because other people tend to spit on them, throw things at them, or attack them on sight.",
-            "effect": "May cause bounty hunters to appear and bad reactions from npcs.",
-            "requirement": "Killing children",
-            "image": "./images/reputations/Reputations_Image_Childkiller.png",
-            "source": "Fallout PNP 2.0"
-        },
-        {
-            "name": "Prizefighter",
-            "description" : "The character becomes known by reputation as a boxer, and a good boxer too. After a certain number of wins in the boxing ring, the character earns the Prizefighter perk. People who respect boxers will treat the character better; people who disdain boxing will treat the character will a little contempt. Prizefighters also gain a +20% bonus to their Unarmed skill and Normal Damage Resistance.",
-            "effect": "+20% to unarmed and normal DR.",
-            "requirement": "Obtain a certain number of wins int he boxing ring.",
-            "image": "./images/reputations/Reputations_Image_Prizefighter.png",
-            "source": "Fallout PNP 2.0"
-        },
-        {
-            "name": "Slaver",
-            "description" : " character earns this perk after voluntarily joining the Slaver's Guild. Since the bombs fell, slavery has become a profitable enterprise in lesser civilized (and sometimes the most civilized) parts of the wastes. In the 100 years since the War, a kind of coalition grew among slavers. They identify themselves with a tattoo that covers most of the face. Of course, that makes their profession obvious to anyone looking at them. Characters with the Slaver tattoo will be treated well by those who respect (and earn money from) slavery, and hated by those who refuse to partake.",
-            "effect": "Better reactions from slavers and the ability to join in slave runs.",
-            "requirement": "Join the Slaver's Guild.",
-            "image": "./images/reputations/Reputations_Image_Slaver.png",
-            "source": "Fallout PNP 2.0"
-        }
-    ]
-}
+[
+    {
+        "id": "1",
+        "name": "Berserker",
+        "description" : "This dubious title is bestowed upon a character (or party) that manages to take out an entire town of people. If a village or small town disappears or ends up dead one day, someone is bound to notice and search for clues. For a mercenary looking for work in some warlord's army, this may be just the thing they want on their resume. For a person looking for honest work in a small town, you can bet that the bullets will be flying as soon as they aren't looking. Of course, taking out a city of a million is damn near impossible (a GM that would allow that ought to have their head examined, in addition to the combat taking over a year), but people will still hear about the person who exterminated a village of 100 tribals.",
+        "effect": "Bad characters have a better reaction toward you, while good characters have the opposite.",
+        "requirement": "Kill at least 25 people, and at least twice as many Good people as Bad people.",
+        "image": "./images/reputations/Reputations_Image_Berserker.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "2",
+        "name": "Childkiller",
+        "description" : "A character earns this perk after they slay their first child. Whether a person is the purest good or the darkest evil, they realize that children are the most important thing in the wastes, as they represent the final hope for human survival. Characters who kill children are almost instantly recognized (word manages to get out fast) and hated. Storekeepers won't deal with Childkillers, and they can only find solace in the most evil or insane of places, because other people tend to spit on them, throw things at them, or attack them on sight.",
+        "effect": "May cause bounty hunters to appear and bad reactions from npcs.",
+        "requirement": "Killing children",
+        "image": "./images/reputations/Reputations_Image_Childkiller.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "3",
+        "name": "Prizefighter",
+        "description" : "The character becomes known by reputation as a boxer, and a good boxer too. After a certain number of wins in the boxing ring, the character earns the Prizefighter perk. People who respect boxers will treat the character better; people who disdain boxing will treat the character will a little contempt. Prizefighters also gain a +20% bonus to their Unarmed skill and Normal Damage Resistance.",
+        "effect": "+20% to unarmed and normal DR.",
+        "requirement": "Obtain a certain number of wins int he boxing ring.",
+        "image": "./images/reputations/Reputations_Image_Prizefighter.png",
+        "source": "Fallout PNP 2.0"
+    },
+    {
+        "id": "4",
+        "name": "Slaver",
+        "description" : "The character earns this perk after voluntarily joining the Slaver's Guild. Since the bombs fell, slavery has become a profitable enterprise in lesser civilized (and sometimes the most civilized) parts of the wastes. In the 100 years since the War, a kind of coalition grew among slavers. They identify themselves with a tattoo that covers most of the face. Of course, that makes their profession obvious to anyone looking at them. Characters with the Slaver tattoo will be treated well by those who respect (and earn money from) slavery, and hated by those who refuse to partake.",
+        "effect": "Better reactions from slavers and the ability to join in slave runs.",
+        "requirement": "Join the Slaver's Guild.",
+        "image": "./images/reputations/Reputations_Image_Slaver.png",
+        "source": "Fallout PNP 2.0"
+    }
+]
